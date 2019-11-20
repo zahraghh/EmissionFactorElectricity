@@ -1,0 +1,335 @@
+Plant Code,Plant Name,State,Sector Group,Sector Code,Prime Mover,Fuel Code,Aggregated Fuel Group,Generation (kWh),Useful Thermal Output (MMBtu),Total Fuel Consumption (MMBtu),Fuel Consumption for Electric Generation (MMBtu),"
+ Fuel Consumption for Useful Thermal Output (MMBtu)",Quantity of Fuel Consumed,Fuel Units,Tons of CO2 Emissions,Metric Tonnes of CO2 Emissions,NERC Region,Balancing Authority Code,Balancing Authority Name,EIA Balancing Authority Region
+9,Copper,TX,ELECTRIC POWER,1,GT,NG,GAS,18913000,0,357035,357035,0,341985,Mcf,20886,18948,WECC,EPE,El Paso Electric Company,Southwest
+127,Oklaunion,TX,ELECTRIC POWER,1,ST,SUB,COAL,1662534957,0,18196090,18196090,0,1048227,Tons,1949612,1768676,TRE,SWPP,Southwest Power Pool,Central
+127,Oklaunion,TX,ELECTRIC POWER,1,ST,DFO,PET,6668043,0,73473,73473,0,12676,Barrels,5925,5375,TRE,SWPP,Southwest Power Pool,Central
+298,Limestone,TX,ELECTRIC POWER,2,ST,LIG,COAL,1334298867,0,14483473,14483473,0,1061994,Tons,1559808,1415048,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+298,Limestone,TX,ELECTRIC POWER,2,ST,SUB,COAL,7791686793,0,85266332,85266332,0,4972893,Tons,9135821,8287963,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+298,Limestone,TX,ELECTRIC POWER,2,ST,NG,GAS,73380340,0,805777,805777,0,793297,Mcf,47138,42763,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3439,Laredo,TX,ELECTRIC POWER,2,GT,NG,GAS,111766000,0,1104872,1104872,0,1052259,Mcf,64635,58636,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3441,Nueces Bay,TX,ELECTRIC POWER,2,CA,NG,GAS,61040000,0,554634,554634,0,538059,Mcf,32446,29435,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3441,Nueces Bay,TX,ELECTRIC POWER,2,CT,NG,GAS,1061845000,0,7938622,7938622,0,7693887,Mcf,464406,421306,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3443,Victoria,TX,ELECTRIC POWER,2,CA,NG,GAS,198219000,0,120090,120090,0,116611,Mcf,7025,6373,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3443,Victoria,TX,ELECTRIC POWER,2,CT,NG,GAS,354708000,0,4230273,4230273,0,4112015,Mcf,247469,224503,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3452,Lake Hubbard,TX,ELECTRIC POWER,2,ST,NG,GAS,172266000,0,2001057,2001057,0,1970177,Mcf,117061,106197,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3453,Mountain Creek,TX,ELECTRIC POWER,2,ST,NG,GAS,182896000,0,2307976,2307976,0,2229929,Mcf,135016,122485,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3456,Newman,TX,ELECTRIC POWER,1,CA,NG,GAS,348027000,0,0,0,0,0,Mcf,0,0,WECC,EPE,El Paso Electric Company,Southwest
+3456,Newman,TX,ELECTRIC POWER,1,CT,NG,GAS,860005000,0,12254494,12254494,0,11610833,Mcf,716883,650352,WECC,EPE,El Paso Electric Company,Southwest
+3456,Newman,TX,ELECTRIC POWER,1,ST,NG,GAS,735609000,0,8893654,8893654,0,8418941,Mcf,520275,471990,WECC,EPE,El Paso Electric Company,Southwest
+3457,Lewis Creek,TX,ELECTRIC POWER,1,ST,NG,GAS,1735264000,0,19046281,19046281,0,18553425,Mcf,1114200,1010795,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+3459,Sabine,TX,ELECTRIC POWER,1,ST,NG,GAS,3497951920,0,45300957,45300957,0,43708258,Mcf,2650087,2404144,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+3459,Sabine,TX,ELECTRIC POWER,1,ST,DFO,PET,12080,0,149,149,0,25,Barrels,12,11,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+3460,Cedar Bayou,TX,ELECTRIC POWER,2,ST,NG,GAS,1692521000,0,19248689,19248689,0,18757883,Mcf,1126040,1021537,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3464,Greens Bayou,TX,ELECTRIC POWER,2,GT,NG,GAS,11481000,0,196266,196266,0,193556,Mcf,11481,10416,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3464,Greens Bayou,TX,ELECTRIC POWER,2,ST,NG,GAS,-5474000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3469,T H Wharton,TX,ELECTRIC POWER,2,CA,NG,GAS,119751000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3469,T H Wharton,TX,ELECTRIC POWER,2,CT,NG,GAS,299920000,0,4060584,4060584,0,3969731,Mcf,237543,215497,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3469,T H Wharton,TX,ELECTRIC POWER,2,GT,NG,GAS,17361000,0,289813,289813,0,288076,Mcf,16954,15381,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3470,W A Parish,TX,ELECTRIC POWER,2,GT,NG,GAS,81000,0,3481,3481,0,3335,Mcf,204,185,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3470,W A Parish,TX,ELECTRIC POWER,2,ST,SUB,COAL,15177465420,0,157492517,157492517,0,9821743,Tons,16874462,15308412,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3470,W A Parish,TX,ELECTRIC POWER,2,ST,NG,GAS,1029058580,0,10716685,10716685,0,10349686,Mcf,626922,568740,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3476,Knox Lee,TX,ELECTRIC POWER,1,ST,NG,GAS,51891000,0,637373,637373,0,625407,Mcf,37286,33826,SPP,SWPP,Southwest Power Pool,Central
+3477,Lone Star,TX,ELECTRIC POWER,1,ST,NG,GAS,1131000,0,16401,16401,0,15923,Mcf,959,870,SPP,SWPP,Southwest Power Pool,Central
+3478,Wilkes,TX,ELECTRIC POWER,1,ST,NG,GAS,408356000,0,5232729,5232729,0,5055341,Mcf,306113,277703,SPP,SWPP,Southwest Power Pool,Central
+3482,Jones,TX,ELECTRIC POWER,1,GT,NG,GAS,211409000,0,2112841,2112841,0,2033534,Mcf,123600,112129,SPP,SWPP,Southwest Power Pool,Central
+3482,Jones,TX,ELECTRIC POWER,1,ST,NG,GAS,751618984,0,8778374,8778374,0,8466061,Mcf,513531,465873,SPP,SWPP,Southwest Power Pool,Central
+3482,Jones,TX,ELECTRIC POWER,1,ST,DFO,PET,320016,0,4009,4009,0,703,Barrels,323,293,SPP,SWPP,Southwest Power Pool,Central
+3484,Nichols,TX,ELECTRIC POWER,1,ST,NG,GAS,396830000,0,4995492,4995492,0,4836643,Mcf,292234,265113,SPP,SWPP,Southwest Power Pool,Central
+3485,Plant X,TX,ELECTRIC POWER,1,ST,NG,GAS,452786125,0,5343565,5343565,0,5142423,Mcf,312596,283586,SPP,SWPP,Southwest Power Pool,Central
+3485,Plant X,TX,ELECTRIC POWER,1,ST,DFO,PET,111875,0,1386,1386,0,242,Barrels,112,101,SPP,SWPP,Southwest Power Pool,Central
+3490,Graham,TX,ELECTRIC POWER,2,ST,NG,GAS,70708000,0,859919,859919,0,846081,Mcf,50305,45636,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3491,Handley,TX,ELECTRIC POWER,2,ST,NG,GAS,354861000,0,4875791,4875791,0,4734064,Mcf,285232,258761,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3492,Morgan Creek,TX,ELECTRIC POWER,2,GT,NG,GAS,4468295,0,72449,72449,0,72449,Mcf,4238,3845,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3492,Morgan Creek,TX,ELECTRIC POWER,2,GT,DFO,PET,83705,0,1358,1358,0,234,Barrels,110,99,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3494,Permian Basin,TX,ELECTRIC POWER,2,GT,NG,GAS,31795020,0,469197,469197,0,468728,Mcf,27448,24901,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3494,Permian Basin,TX,ELECTRIC POWER,2,GT,DFO,PET,113980,0,1680,1680,0,290,Barrels,135,123,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3497,Big Brown,TX,ELECTRIC POWER,2,ST,LIG,COAL,1537427029,0,17320582,17320582,0,1267255,Tons,1865352,1692236,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3497,Big Brown,TX,ELECTRIC POWER,2,ST,SUB,COAL,6286447860,0,71098794,71098794,0,4284127,Tons,7617847,6910865,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3497,Big Brown,TX,ELECTRIC POWER,2,ST,NG,GAS,13114111,0,147354,147354,0,144639,Mcf,8620,7820,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3504,Stryker Creek,TX,ELECTRIC POWER,2,ST,NG,GAS,76190000,0,943400,943400,0,903169,Mcf,55189,50067,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3507,Trinidad (TX),TX,ELECTRIC POWER,2,ST,NG,GAS,7974000,0,112991,112991,0,108957,Mcf,6610,5996,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3548,Decker Creek,TX,ELECTRIC POWER,1,GT,NG,GAS,25320000,0,326005,326005,0,316201,Mcf,19071,17301,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3548,Decker Creek,TX,ELECTRIC POWER,1,ST,NG,GAS,377101000,0,4281698,4281698,0,4153695,Mcf,250478,227232,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3559,Silas Ray,TX,ELECTRIC POWER,1,CA,NG,GAS,9590000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3559,Silas Ray,TX,ELECTRIC POWER,1,CT,NG,GAS,30622000,0,376038,376038,0,363044,Mcf,21998,19957,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3559,Silas Ray,TX,ELECTRIC POWER,1,GT,NG,GAS,18980000,0,258312,258312,0,228797,Mcf,15111,13709,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3559,Silas Ray,TX,ELECTRIC POWER,1,IC,DFO,PET,9000,0,262,262,0,47,Barrels,21,19,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3561,Bryan (TX),TX,ELECTRIC POWER,1,GT,NG,GAS,311000,0,6453,6453,0,6453,Mcf,377,342,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3576,Ray Olinger,TX,ELECTRIC POWER,1,GT,NG,GAS,1573000,0,22,22,0,22,Mcf,1,1,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3576,Ray Olinger,TX,ELECTRIC POWER,1,ST,NG,GAS,10247000,0,138982,138982,0,137538,Mcf,8130,7376,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3601,Sim Gideon,TX,ELECTRIC POWER,1,ST,NG,GAS,326136000,0,3702857,3702857,0,3595007,Mcf,216616,196512,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3602,Ty Cooke,TX,ELECTRIC POWER,1,GT,NG,GAS,2402000,0,48200,48200,0,46259,Mcf,2820,2558,SPP,SWPP,Southwest Power Pool,Central
+3604,J Robert Massengale,TX,ELECTRIC POWER,1,CA,NG,GAS,14738000,0,0,0,0,0,Mcf,0,0,SPP,SWPP,Southwest Power Pool,Central
+3604,J Robert Massengale,TX,ELECTRIC POWER,1,CT,NG,GAS,74745000,0,858279,858279,0,825090,Mcf,50209,45549,SPP,SWPP,Southwest Power Pool,Central
+3609,Leon Creek,TX,ELECTRIC POWER,1,GT,NG,GAS,97525000,0,1063528,1063528,0,1032552,Mcf,62216,56442,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3611,O W Sommers,TX,ELECTRIC POWER,1,ST,NG,GAS,421668021,0,5296398,5296398,0,5125131,Mcf,309837,281082,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3611,O W Sommers,TX,ELECTRIC POWER,1,ST,DFO,PET,109979,0,1593,1593,0,270,Barrels,128,117,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3612,V H Braunig,TX,ELECTRIC POWER,1,GT,NG,GAS,91869141,0,1039780,1039780,0,1005505,Mcf,60827,55182,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3612,V H Braunig,TX,ELECTRIC POWER,1,GT,DFO,PET,244859,0,3264,3264,0,544,Barrels,263,239,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3612,V H Braunig,TX,ELECTRIC POWER,1,ST,NG,GAS,363303050,0,4282245,4282245,0,4146189,Mcf,250510,227261,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3612,V H Braunig,TX,ELECTRIC POWER,1,ST,DFO,PET,17950,0,207,207,0,35,Barrels,17,15,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3628,R W Miller,TX,ELECTRIC POWER,1,GT,NG,GAS,28738932,0,463293,463293,0,447442,Mcf,27102,24587,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3628,R W Miller,TX,ELECTRIC POWER,1,GT,DFO,PET,81068,0,1319,1319,0,227,Barrels,106,96,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3628,R W Miller,TX,ELECTRIC POWER,1,ST,NG,GAS,112599997,0,1417292,1417292,0,1367767,Mcf,82911,75216,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3628,R W Miller,TX,ELECTRIC POWER,1,ST,DFO,PET,481003,0,6181,6181,0,1064,Barrels,498,452,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3630,Pearsall,TX,ELECTRIC POWER,1,IC,NG,GAS,174931000,0,1673132,1673132,0,1584406,Mcf,97878,88794,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3630,Pearsall,TX,ELECTRIC POWER,1,ST,NG,GAS,144000,0,4016,4016,0,3803,Mcf,235,213,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3631,Sam Rayburn,TX,ELECTRIC POWER,1,CA,NG,GAS,29916000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3631,Sam Rayburn,TX,ELECTRIC POWER,1,CT,NG,GAS,107001000,0,1440471,1440471,0,1382839,Mcf,84267,76446,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3631,Sam Rayburn,TX,ELECTRIC POWER,1,GT,NG,GAS,635000,0,40107,40107,0,38491,Mcf,2346,2128,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+3631,Sam Rayburn,TX,ELECTRIC POWER,1,IC,DFO,PET,219000,0,2336,2336,0,400,Barrels,188,171,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+4195,Powerlane Plant,TX,ELECTRIC POWER,1,IC,NG,GAS,7277000,0,84661,84661,0,83658,Mcf,4953,4493,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+4195,Powerlane Plant,TX,ELECTRIC POWER,1,ST,NG,GAS,3038000,0,90408,90408,0,89313,Mcf,5289,4798,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+4266,Spencer,TX,ELECTRIC POWER,1,ST,NG,GAS,4546000,0,59558,59558,0,73527,Mcf,3484,3161,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+4937,Thomas C Ferguson,TX,ELECTRIC POWER,1,CA,NG,GAS,1339846000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+4937,Thomas C Ferguson,TX,ELECTRIC POWER,1,CT,NG,GAS,2265077000,0,25021861,25021861,0,24293070,Mcf,1463769,1327922,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+4939,Barney M Davis,TX,ELECTRIC POWER,2,CA,NG,GAS,176683000,0,883567,883567,0,856623,Mcf,51688,46891,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+4939,Barney M Davis,TX,ELECTRIC POWER,2,CT,NG,GAS,1007002000,0,8169159,8169159,0,7913564,Mcf,477892,433541,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+4939,Barney M Davis,TX,ELECTRIC POWER,2,ST,NG,GAS,14038000,0,180451,180451,0,174813,Mcf,10556,9577,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6136,Gibbons Creek,TX,ELECTRIC POWER,1,ST,SUB,COAL,1588735562,0,16762023,16762023,0,1029628,Tons,1795959,1629283,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6136,Gibbons Creek,TX,ELECTRIC POWER,1,ST,NG,GAS,4946438,0,52437,52437,0,51457,Mcf,3068,2783,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6139,Welsh,TX,ELECTRIC POWER,1,ST,SUB,COAL,5571595114,0,60319976,60319976,0,3508248,Tons,6462956,5863155,SPP,SWPP,Southwest Power Pool,Central
+6139,Welsh,TX,ELECTRIC POWER,1,ST,DFO,PET,10934886,0,117883,117883,0,20048,Barrels,9507,8624,SPP,SWPP,Southwest Power Pool,Central
+6146,Martin Lake,TX,ELECTRIC POWER,2,ST,LIG,COAL,6739293724,0,76778578,76778578,0,5672088,Tons,8268722,7501335,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6146,Martin Lake,TX,ELECTRIC POWER,2,ST,SUB,COAL,5848788538,0,66516402,66516402,0,3996045,Tons,7126869,6465453,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6146,Martin Lake,TX,ELECTRIC POWER,2,ST,DFO,PET,6581738,0,76573,76573,0,13202,Barrels,6175,5602,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6147,Monticello,TX,ELECTRIC POWER,2,ST,SUB,COAL,9021823821,0,102939346,102939346,0,6248302,Tons,11029388,10005795,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6147,Monticello,TX,ELECTRIC POWER,2,ST,DFO,PET,15997179,0,184753,184753,0,31854,Barrels,14899,13517,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6178,Coleto Creek,TX,ELECTRIC POWER,2,ST,SUB,COAL,3898987467,0,39376476,39376476,0,2204164,Tons,4218974,3827428,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6178,Coleto Creek,TX,ELECTRIC POWER,2,ST,DFO,PET,1575533,0,16892,16892,0,3067,Barrels,1362,1236,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6179,Fayette Power Project,TX,ELECTRIC POWER,1,ST,SUB,COAL,11407808719,0,120214833,120214833,0,7188478,Tons,12880362,11684988,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6179,Fayette Power Project,TX,ELECTRIC POWER,1,ST,DFO,PET,16827281,0,177844,177844,0,30041,Barrels,14342,13011,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6180,Oak Grove (TX),TX,ELECTRIC POWER,2,ST,LIG,COAL,13430768306,0,138902063,138902063,0,10210658,Tons,14959153,13570855,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6180,Oak Grove (TX),TX,ELECTRIC POWER,2,ST,RC,COAL,30369619,0,305170,305170,0,22439,Tons,31385,28473,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6180,Oak Grove (TX),TX,ELECTRIC POWER,2,ST,NG,GAS,2319075,0,23303,23303,0,23027,Mcf,1363,1237,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6181,J T Deely,TX,ELECTRIC POWER,1,ST,SUB,COAL,3564390625,0,38981687,38981687,0,2232893,Tons,4176675,3789054,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6181,J T Deely,TX,ELECTRIC POWER,1,ST,NG,GAS,5142375,0,55864,55864,0,54389,Mcf,3268,2965,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6183,San Miguel,TX,ELECTRIC POWER,1,ST,LIG,COAL,2553779609,0,31621700,31621700,0,3021975,Tons,3405521,3089468,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6183,San Miguel,TX,ELECTRIC POWER,1,ST,DFO,PET,3197391,0,40182,40182,0,6895,Barrels,3240,2940,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6193,Harrington,TX,ELECTRIC POWER,1,ST,SUB,COAL,4594569705,0,48944694,48944694,0,2756527,Tons,5244156,4757467,SPP,SWPP,Southwest Power Pool,Central
+6193,Harrington,TX,ELECTRIC POWER,1,ST,NG,GAS,31822295,0,341327,341327,0,331184,Mcf,19967,18114,SPP,SWPP,Southwest Power Pool,Central
+6194,Tolk,TX,ELECTRIC POWER,1,ST,SUB,COAL,5154916299,0,52941786,52941786,0,2974439,Tons,5672423,5145988,SPP,SWPP,Southwest Power Pool,Central
+6194,Tolk,TX,ELECTRIC POWER,1,ST,NG,GAS,16568701,0,171196,171196,0,165368,Mcf,10015,9085,SPP,SWPP,Southwest Power Pool,Central
+6243,Dansby,TX,ELECTRIC POWER,1,GT,NG,GAS,27049000,0,290472,290472,0,290472,Mcf,16992,15415,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6243,Dansby,TX,ELECTRIC POWER,1,ST,NG,GAS,73514000,0,1161854,1161854,0,1161854,Mcf,67968,61660,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6648,Sandow No 4,TX,ELECTRIC POWER,2,ST,LIG,COAL,4035557661,0,45263964,45263964,0,3712158,Tons,4874734,4422329,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+6648,Sandow No 4,TX,ELECTRIC POWER,2,ST,DFO,PET,2570339,0,28298,28298,0,4879,Barrels,2282,2070,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7030,Major Oak Power,TX,ELECTRIC POWER,2,ST,LIG,COAL,2378397554,0,27420155,27420155,0,2029461,Tons,2953032,2678973,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7030,Major Oak Power,TX,ELECTRIC POWER,2,ST,NG,GAS,5149446,0,59645,59645,0,59645,Mcf,3489,3165,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7097,J K Spruce,TX,ELECTRIC POWER,1,ST,SUB,COAL,5944579045,0,59698441,59698441,0,3539071,Tons,6396362,5802741,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7097,J K Spruce,TX,ELECTRIC POWER,1,ST,NG,GAS,42975955,0,443374,443374,0,431137,Mcf,25937,23530,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7131,Brandon Station,TX,ELECTRIC POWER,1,GT,NG,GAS,10157000,1114,107745,104468,3277,102322,Mcf,6303,5718,SPP,SWPP,Southwest Power Pool,Central
+7325,San Jacinto Steam Electric Station,TX,ELECTRIC POWER,2,GT,NG,GAS,940147000,0,12585053,12585053,0,12230373,Mcf,736220,667895,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7512,Arthur Von Rosenberg,TX,ELECTRIC POWER,1,CA,NG,GAS,891760000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7512,Arthur Von Rosenberg,TX,ELECTRIC POWER,1,CT,NG,GAS,1464383000,0,17092364,17092364,0,16619242,Mcf,999896,907100,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7900,Sand Hill,TX,ELECTRIC POWER,1,CA,NG,GAS,441071000,0,313279,313279,0,303908,Mcf,18327,16626,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7900,Sand Hill,TX,ELECTRIC POWER,1,CT,NG,GAS,733476000,0,8982460,8982460,0,8707217,Mcf,525470,476703,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7900,Sand Hill,TX,ELECTRIC POWER,1,GT,NG,GAS,206912000,0,1874475,1874475,0,1816351,Mcf,109656,99479,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+7902,Pirkey,TX,ELECTRIC POWER,1,ST,LIG,COAL,4284919443,0,45172197,45172197,0,3621215,Tons,4864851,4413364,SPP,SWPP,Southwest Power Pool,Central
+7902,Pirkey,TX,ELECTRIC POWER,1,ST,NG,GAS,10866557,0,116727,116727,0,115614,Mcf,6828,6195,SPP,SWPP,Southwest Power Pool,Central
+8063,DeCordova Steam Electric Station,TX,ELECTRIC POWER,2,GT,NG,GAS,11645033,0,160098,160098,0,154985,Mcf,9366,8496,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+8063,DeCordova Steam Electric Station,TX,ELECTRIC POWER,2,GT,DFO,PET,172967,0,2377,2377,0,410,Barrels,192,174,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10072,Engineered Carbons Borger Cogen,TX,INDUSTRIAL,6,ST,NG,GAS,29292915,0,439994,439994,0,428582,Mcf,25739,23351,SPP,SWPP,Southwest Power Pool,Central
+10154,Power Island,TX,INDUSTRIAL,7,GT,NG,GAS,214398000,2819237,4330198,892104,3438094,4204076,Mcf,253315,229806,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10167,Seadrift Coke LP,TX,INDUSTRIAL,7,ST,NG,GAS,722562,4683,28476,12872,15604,27482,Mcf,1666,1511,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10167,Seadrift Coke LP,TX,INDUSTRIAL,7,ST,PC,PET,15153360,107065,696483,339608,356875,25864,Tons,78386,71112,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10184,Central Utility Plant,TX,COMMERCIAL,5,CA,NG,GAS,324944,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10184,Central Utility Plant,TX,COMMERCIAL,5,CA,DFO,PET,7056,0,0,0,0,0,Barrels,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10184,Central Utility Plant,TX,COMMERCIAL,5,CT,NG,GAS,18300992,24004,255741,190867,64874,248091,Mcf,14961,13572,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10184,Central Utility Plant,TX,COMMERCIAL,5,CT,DFO,PET,435008,581,6102,4531,1571,1050,Barrels,492,446,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10243,Ticona Polymers Inc,TX,INDUSTRIAL,7,GT,NG,GAS,241957100,142856,3284206,2808019,476187,3173147,Mcf,192125,174294,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10261,Enterprise Products Operating,TX,INDUSTRIAL,7,GT,NG,GAS,157213000,0,2385488,2385488,0,2227348,Mcf,139550,126599,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10298,Bayou Cogen Plant,TX,INDUSTRIAL,7,GT,NG,GAS,2157789648,19980020,31473114,8507576,22965538,30693472,Mcf,1841164,1670293,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10418,Ascend Performance Materials Texas Inc.,TX,INDUSTRIAL,7,ST,NG,GAS,206079410,2682738,4105574,873360,3232214,4009350,Mcf,240174,217885,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10425,International Paper - Orange,TX,INDUSTRIAL,7,ST,NG,GAS,61555194,1403239,2830290,368467,2461823,2830290,Mcf,165571,150205,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+10425,International Paper - Orange,TX,INDUSTRIAL,7,ST,TDF,MSW,1955775,44125,89120,11706,77414,2785,Tons,8446,7662,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+10436,ExxonMobil Baytown Refinery,TX,INDUSTRIAL,7,GT,NG,GAS,1034004000,7245367,14758067,4832907,9925160,14412177,Mcf,863341,783218,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10554,Formosa Utility Venture Ltd,TX,INDUSTRIAL,7,CA,NG,GAS,556504474,0,87353,87353,0,84825,Mcf,5110,4636,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10554,Formosa Utility Venture Ltd,TX,INDUSTRIAL,7,CT,NG,GAS,2829746080,4129376,22505045,16689021,5816024,21884336,Mcf,1316536,1194354,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10568,Port Arthur Texas Refinery,TX,INDUSTRIAL,7,GT,NG,GAS,182087000,1559555,2535856,722420,1813436,2493468,Mcf,148347,134579,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+10692,ExxonMobil Baytown Turbine,TX,INDUSTRIAL,7,GT,NG,GAS,2612463000,14728730,33555444,12810755,20744689,32780278,Mcf,1962980,1780804,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10741,Clear Lake Cogeneration Ltd,TX,ELECTRIC POWER,3,CA,NG,GAS,2557000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10741,Clear Lake Cogeneration Ltd,TX,ELECTRIC POWER,3,CT,NG,GAS,8648000,32076,106143,58269,47874,104062,Mcf,6209,5633,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+10789,Sabine River Works,TX,INDUSTRIAL,7,CA,NG,GAS,461595006,7485,331463,319768,11695,320822,Mcf,19390,17591,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+10789,Sabine River Works,TX,INDUSTRIAL,7,CT,NG,GAS,2395880000,6193442,25237224,15559974,9677250,24482017,Mcf,1476367,1339352,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+10790,Victoria Texas Plant,TX,INDUSTRIAL,7,GT,NG,GAS,367839000,1912302,4535343,1803486,2731857,4398976,Mcf,265316,240693,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50026,Corpus Refinery,TX,INDUSTRIAL,7,GT,NG,GAS,287993000,1655166,3441211,1291643,2149568,3383688,Mcf,201309,182627,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50043,Houston Chemical Complex Battleground,TX,INDUSTRIAL,7,CA,NG,GAS,449482481,8030,970288,957336,12952,942026,Mcf,56761,51494,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50043,Houston Chemical Complex Battleground,TX,INDUSTRIAL,7,CT,NG,GAS,1374073000,5438910,18116185,9343749,8772436,17588529,Mcf,1059789,961435,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50054,Rice University,TX,COMMERCIAL,5,GT,NG,GAS,26597200,197576,408702,130425,278277,400296,Mcf,23909,21690,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50067,Borger Plant,TX,INDUSTRIAL,7,ST,NG,GAS,4403725,102420,143930,23435,120495,143930,Mcf,8420,7638,SPP,SWPP,Southwest Power Pool,Central
+50101,WestRock (TX),TX,INDUSTRIAL,7,ST,NG,GAS,59556890,2039278,3030387,274606,2755781,2814531,Mcf,177276,160824,TRE,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+50109,Paris Energy Center,TX,ELECTRIC POWER,2,CA,NG,GAS,78295000,0,32367,32367,0,31080,Mcf,1893,1718,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50109,Paris Energy Center,TX,ELECTRIC POWER,2,CT,NG,GAS,166501000,0,2175411,2175411,0,2090924,Mcf,127261,115450,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50118,Hal C Weaver Power Plant,TX,COMMERCIAL,5,CA,NG,GAS,0,941237,1120521,0,1120521,1083676,Mcf,65550,59467,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50118,Hal C Weaver Power Plant,TX,COMMERCIAL,5,CT,NG,GAS,333461000,1304524,2984869,1431864,1553005,2886721,Mcf,174614,158408,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50121,Valero Refinery Corpus Christi West,TX,INDUSTRIAL,6,ST,NG,GAS,30469770,0,445954,445954,0,445954,Mcf,26088,23667,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50121,Valero Refinery Corpus Christi West,TX,INDUSTRIAL,6,ST,PC,PET,74371060,0,1092769,1092769,0,31971,Tons,122987,111573,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50127,Signal Hill Generating LLC,TX,ELECTRIC POWER,2,CT,NG,GAS,-891000,0,19886,19886,0,19775,Mcf,1163,1055,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50137,Newgulf Cogen,TX,ELECTRIC POWER,2,GT,NG,GAS,4297000,0,72392,72392,0,72392,Mcf,4235,3842,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50150,Union Carbide Seadrift Cogen,TX,INDUSTRIAL,7,CA,NG,GAS,178781025,115744,1088776,825721,263055,1057064,Mcf,63693,57782,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50150,Union Carbide Seadrift Cogen,TX,INDUSTRIAL,7,CT,NG,GAS,567049390,933874,7019994,4897552,2122442,6815527,Mcf,410667,372554,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50229,Texas Petrochemicals,TX,INDUSTRIAL,7,ST,NG,GAS,192698607,9147413,11677112,787333,10889779,11099916,Mcf,683106,619710,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50241,Tenet Hospital,TX,COMMERCIAL,5,IC,DFO,PET,44000,301,902,301,601,155,Barrels,73,66,TRE,EPE,El Paso Electric Company,Southwest
+50304,Shell Deer Park,TX,INDUSTRIAL,7,GT,NG,GAS,946723328,1010725,14157303,10788221,3369082,13893329,Mcf,828196,751335,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50475,Corpus Christi,TX,INDUSTRIAL,7,GT,NG,GAS,79360000,1585225,3325542,1266809,2058733,3056563,Mcf,194543,176488,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50625,ExxonMobil Beaumont Refinery,TX,INDUSTRIAL,7,GT,NG,GAS,3766789000,0,24176957,24176957,0,23472774,Mcf,1414342,1283083,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+50625,ExxonMobil Beaumont Refinery,TX,INDUSTRIAL,7,ST,NG,GAS,469815192,3730057,17776883,5343365,12433518,17259110,Mcf,1039940,943428,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+50815,Optim Energy Altura Cogen LLC,TX,ELECTRIC POWER,3,CA,NG,GAS,480356000,856,611422,610125,1297,596052,Mcf,35768,32448,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50815,Optim Energy Altura Cogen LLC,TX,ELECTRIC POWER,3,CT,NG,GAS,2504180000,13304423,35241076,15082859,20158217,34355400,Mcf,2061589,1870261,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+50973,Motiva Enterprises Port Arthur Refinery,TX,INDUSTRIAL,7,CA,NG,GAS,156616924,0,0,0,0,0,Mcf,0,0,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+50973,Motiva Enterprises Port Arthur Refinery,TX,INDUSTRIAL,7,CT,NG,GAS,1333382370,6954141,14872259,6391600,8480659,14725008,Mcf,870021,789278,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+50973,Motiva Enterprises Port Arthur Refinery,TX,INDUSTRIAL,7,GT,NG,GAS,116809140,1044828,1770141,495960,1274181,1752616,Mcf,103553,93942,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+52071,Sandow No 5,TX,ELECTRIC POWER,2,ST,LIG,COAL,4477332151,0,44000179,44000179,0,3604066,Tons,4738630,4298856,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52071,Sandow No 5,TX,ELECTRIC POWER,2,ST,DFO,PET,5421849,0,54838,54838,0,9455,Barrels,4422,4012,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52088,Texas City Power Plant,TX,ELECTRIC POWER,3,CA,NG,GAS,57503000,533166,1233882,345276,888606,1199108,Mcf,72182,65483,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52088,Texas City Power Plant,TX,ELECTRIC POWER,3,CT,NG,GAS,729515000,3209847,9744674,4394929,5349745,9470043,Mcf,570059,517155,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52120,Freeport Energy,TX,INDUSTRIAL,7,CA,NG,GAS,528056360,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52120,Freeport Energy,TX,INDUSTRIAL,7,CT,NG,GAS,1612775350,6071723,23054496,12763440,10291056,22383006,Mcf,1348679,1223513,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52120,Freeport Energy,TX,INDUSTRIAL,7,GT,NG,GAS,396523680,2096724,5893684,2339914,3553770,5722023,Mcf,344778,312781,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52122,Wasson CO2 Removal Plant,TX,INDUSTRIAL,7,GT,NG,GAS,150331000,190883,1955039,1424803,530236,2503251,Mcf,114369,103755,SPP,SWPP,Southwest Power Pool,Central
+52132,Power Station 4,TX,INDUSTRIAL,7,CA,NG,GAS,0,266172,429308,0,429308,419656,Mcf,25114,22784,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52132,Power Station 4,TX,INDUSTRIAL,7,CT,NG,GAS,251088000,1187623,3397566,1482046,1915520,3321078,Mcf,198756,180310,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52176,C R Wing Cogen Plant,TX,ELECTRIC POWER,3,CA,NG,GAS,21760000,0,40718,40718,0,39426,Mcf,2382,2161,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+52176,C R Wing Cogen Plant,TX,ELECTRIC POWER,3,CT,NG,GAS,46172000,12235,604526,573155,31371,585541,Mcf,35365,32082,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54097,International Paper Texarkana Mill,TX,INDUSTRIAL,7,ST,NG,GAS,44164691,1210733,2307497,255406,2052091,2135628,Mcf,134988,122460,SPP,SWPP,Southwest Power Pool,Central
+54321,Goodyear Beaumont Chemical Plant,TX,INDUSTRIAL,7,GT,NG,GAS,133095000,1029956,1978765,605494,1373271,1940000,Mcf,115757,105014,SPP,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+54321,Goodyear Beaumont Chemical Plant,TX,INDUSTRIAL,7,ST,NG,GAS,75221642,4004957,5682158,342218,5339940,5572908,Mcf,332404,301555,SPP,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+54321,Goodyear Beaumont Chemical Plant,TX,INDUSTRIAL,7,ST,WO,PET,1597358,85631,121440,7268,114172,20938,Barrels,12751,11567,SPP,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+54330,Westhollow Technology Center,TX,INDUSTRIAL,7,GT,NG,GAS,21666820,32603,337619,235736,101883,331000,Mcf,19751,17918,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54338,Rio Grande Valley Sugar Growers,TX,INDUSTRIAL,7,IC,DFO,PET,40000,810,4271,2898,1373,733,Barrels,344,312,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54338,Rio Grande Valley Sugar Growers,TX,INDUSTRIAL,7,ST,NG,GAS,103251,51955,94017,5957,88060,94017,Mcf,5500,4990,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54364,PPG Industries Works 4,TX,INDUSTRIAL,6,IC,DFO,PET,136000,0,1230,1230,0,211,Barrels,99,90,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54520,Village Creek Water Reclamation Facility,TX,COMMERCIAL,5,GT,NG,GAS,182796,172,2785,2214,571,3031,Mcf,163,148,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54607,University of Texas at Dallas,TX,COMMERCIAL,5,IC,DFO,PET,0,33,37,0,37,6,Barrels,3,3,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54628,Phelps Dodge Refining,TX,INDUSTRIAL,7,GT,NG,GAS,33264000,268304,545427,162139,383288,534732,Mcf,31907,28946,WECC,EPE,El Paso Electric Company,Southwest
+54637,JCO Oxides Olefins Plant,TX,INDUSTRIAL,7,GT,NG,GAS,595600000,4120079,7412370,2448417,4963953,7245719,Mcf,433621,393378,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+54676,Oyster Creek Unit VIII,TX,ELECTRIC POWER,3,CA,NG,GAS,556575758,307064,3498642,2950314,548328,3435763,Mcf,204669,185675,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54676,Oyster Creek Unit VIII,TX,ELECTRIC POWER,3,CT,NG,GAS,1797161000,5530048,21776940,11901856,9875084,21412737,Mcf,1273942,1155713,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54748,Port Neches Plant,TX,INDUSTRIAL,7,GT,NG,GAS,271043000,2368148,4144208,1184023,2960185,4023504,Mcf,242434,219935,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+54817,Johnson County,TX,ELECTRIC POWER,1,CA,NG,GAS,129285000,0,49404,49404,0,49142,Mcf,2890,2622,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+54817,Johnson County,TX,ELECTRIC POWER,1,CT,NG,GAS,253241000,0,3162748,3162748,0,3150004,Mcf,185019,167849,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55015,Sweeny Cogen Facility,TX,ELECTRIC POWER,3,GT,NG,GAS,1898503279,12664643,26802855,9213073,17589782,26259899,Mcf,1567956,1422440,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55025,Yates Gas Plant,TX,INDUSTRIAL,7,GT,NG,GAS,24020780,106019,278897,122987,155910,309885,Mcf,16315,14801,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55047,Pasadena Cogeneration,TX,ELECTRIC POWER,3,CA,NG,GAS,1364752000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55047,Pasadena Cogeneration,TX,ELECTRIC POWER,3,CT,NG,GAS,2678096000,812003,30332035,28674884,1657151,29591695,Mcf,1774412,1609736,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55052,Jameson Gas Processing Plant,TX,INDUSTRIAL,6,IC,NG,GAS,13029000,0,120277,120277,0,123235,Mcf,7036,6383,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55053,Bridgeport Gas Processing Plant,TX,INDUSTRIAL,6,IC,NG,GAS,53083660,0,541187,541187,0,546653,Mcf,31659,28721,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55062,Tenaska Frontier Generation Station,TX,ELECTRIC POWER,2,CA,NG,GAS,1121559000,0,1305103,1305103,0,1280863,Mcf,76348,69262,SERC,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55062,Tenaska Frontier Generation Station,TX,ELECTRIC POWER,2,CT,NG,GAS,1701492000,0,19015003,19015003,0,18669062,Mcf,1112370,1009135,SERC,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55064,Black Hawk Station,TX,ELECTRIC POWER,3,GT,NG,GAS,1343531209,10053669,18333538,5921602,12411936,18224192,Mcf,1072504,972970,SPP,SWPP,Southwest Power Pool,Central
+55065,Mustang Station,TX,ELECTRIC POWER,1,CA,NG,GAS,513478000,0,1657,1657,0,1589,Mcf,97,88,SPP,SWPP,Southwest Power Pool,Central
+55065,Mustang Station,TX,ELECTRIC POWER,1,CT,NG,GAS,1280077000,0,14844123,14844123,0,14349778,Mcf,868375,787785,SPP,SWPP,Southwest Power Pool,Central
+55086,Gregory Power Facility,TX,ELECTRIC POWER,3,CA,NG,GAS,-2485000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55086,Gregory Power Facility,TX,ELECTRIC POWER,3,CT,NG,GAS,-3142000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55091,Midlothian Energy Facility,TX,ELECTRIC POWER,2,CS,NG,GAS,3239653000,0,25207386,25207386,0,24770784,Mcf,1474622,1337768,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55097,Lamar Power Project,TX,ELECTRIC POWER,2,CA,NG,GAS,2238945000,0,836495,836495,0,809032,Mcf,48935,44393,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55097,Lamar Power Project,TX,ELECTRIC POWER,2,CT,NG,GAS,3911393000,0,43344965,43344965,0,41928488,Mcf,2535663,2300338,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55104,Sabine Cogen,TX,ELECTRIC POWER,3,CA,NG,GAS,45688360,58710,610282,414584,195698,594367,Mcf,35701,32388,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+55104,Sabine Cogen,TX,ELECTRIC POWER,3,CT,NG,GAS,519443000,241560,7030476,6225270,805206,6843775,Mcf,411280,373111,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+55122,NAFTA Region Olefins Complex Cogen Fac,TX,INDUSTRIAL,7,GT,NG,GAS,570160080,3397959,7690070,2835840,4854230,7546682,Mcf,449866,408116,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+55123,Magic Valley Generating Station,TX,ELECTRIC POWER,2,CA,NG,GAS,1134429000,0,83100,83100,0,80680,Mcf,4861,4410,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55123,Magic Valley Generating Station,TX,ELECTRIC POWER,2,CT,NG,GAS,1970774000,0,22823798,22823798,0,22158017,Mcf,1335183,1211270,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55132,Tenaska Gateway Generating Station,TX,ELECTRIC POWER,2,CA,NG,GAS,1037582000,0,1510562,1510562,0,1459855,Mcf,88367,80166,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55132,Tenaska Gateway Generating Station,TX,ELECTRIC POWER,2,CT,NG,GAS,1493018000,0,17272852,17272852,0,16693963,Mcf,1010455,916679,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55137,Rio Nogales Power Project,TX,ELECTRIC POWER,1,CA,NG,GAS,947304000,0,118422,118422,0,114497,Mcf,6928,6285,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55137,Rio Nogales Power Project,TX,ELECTRIC POWER,1,CT,NG,GAS,1527655000,0,17942369,17942369,0,17348866,Mcf,1049621,952210,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55139,Wolf Hollow I LP,TX,ELECTRIC POWER,2,CA,NG,GAS,880350000,0,7103114,7103114,0,6936747,Mcf,415529,376966,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55139,Wolf Hollow I LP,TX,ELECTRIC POWER,2,CT,NG,GAS,1572935000,0,12592606,12592606,0,12302738,Mcf,736662,668296,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55144,Hays Energy Project,TX,ELECTRIC POWER,2,CS,NG,GAS,2715175000,0,20567726,20567726,0,19892149,Mcf,1203204,1091539,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55153,Guadalupe Generating Station,TX,ELECTRIC POWER,2,CA,NG,GAS,1878133000,0,464528,464528,0,447100,Mcf,27175,24653,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55153,Guadalupe Generating Station,TX,ELECTRIC POWER,2,CT,NG,GAS,3140122000,0,35712592,35712592,0,34420000,Mcf,2089172,1895284,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55154,Lost Pines 1 Power Project,TX,ELECTRIC POWER,1,CA,NG,GAS,713586000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55154,Lost Pines 1 Power Project,TX,ELECTRIC POWER,1,CT,NG,GAS,1298678000,0,14885092,14885092,0,14451545,Mcf,870772,789959,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55168,Bastrop Energy Center,TX,ELECTRIC POWER,2,CA,NG,GAS,646166000,0,721750,721750,0,697376,Mcf,42222,38304,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55168,Bastrop Energy Center,TX,ELECTRIC POWER,2,CT,NG,GAS,1447671000,0,16271898,16271898,0,15724611,Mcf,951899,863557,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55172,Bosque County Peaking,TX,ELECTRIC POWER,2,CA,NG,GAS,1637301000,0,358340,358340,0,345079,Mcf,20963,19017,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55172,Bosque County Peaking,TX,ELECTRIC POWER,2,CT,NG,GAS,2945668000,0,32017257,32017257,0,30892998,Mcf,1872996,1699171,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55176,Eastman Cogeneration Facility,TX,ELECTRIC POWER,3,CA,NG,GAS,453365390,0,848341,848341,0,838667,Mcf,49628,45022,SPP,SWPP,Southwest Power Pool,Central
+55176,Eastman Cogeneration Facility,TX,ELECTRIC POWER,3,CT,NG,GAS,1564909730,5193901,18979458,10602199,8377259,18737726,Mcf,1110291,1007249,SPP,SWPP,Southwest Power Pool,Central
+55187,Channelview Cogeneration Plant,TX,ELECTRIC POWER,3,CA,NG,GAS,673665000,114940,3208613,3006965,201648,3139695,Mcf,187703,170283,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55187,Channelview Cogeneration Plant,TX,ELECTRIC POWER,3,CT,NG,GAS,4430997000,13184158,51485052,28354951,23130101,50362629,Mcf,3011855,2732336,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55206,Corpus Christi Energy Center,TX,ELECTRIC POWER,3,CA,NG,GAS,484713081,0,1281944,1281944,0,1253402,Mcf,74993,68033,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55206,Corpus Christi Energy Center,TX,ELECTRIC POWER,3,CT,NG,GAS,1648944000,5628954,19676785,10741938,8934847,19232065,Mcf,1151084,1044256,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55215,Odessa-Ector Power Plant,TX,ELECTRIC POWER,2,CA,NG,GAS,1650291000,0,1787146,1787146,0,1708163,Mcf,104547,94845,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55215,Odessa-Ector Power Plant,TX,ELECTRIC POWER,2,CT,NG,GAS,2845431000,0,30605219,30605219,0,29326044,Mcf,1790393,1624234,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55223,Ennis Power Company LLC,TX,ELECTRIC POWER,2,CA,NG,GAS,330367000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55223,Ennis Power Company LLC,TX,ELECTRIC POWER,2,CT,NG,GAS,537191000,0,6925218,6925218,0,6205362,Mcf,405122,367525,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55226,Freestone Energy Center,TX,ELECTRIC POWER,2,CA,NG,GAS,1963351000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55226,Freestone Energy Center,TX,ELECTRIC POWER,2,CT,NG,GAS,3379725000,0,39014841,39014841,0,37836363,Mcf,2282352,2070536,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55230,Jack County,TX,ELECTRIC POWER,1,CA,NG,GAS,1349326000,0,1454360,1454360,0,1420290,Mcf,85079,77184,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55230,Jack County,TX,ELECTRIC POWER,1,CT,NG,GAS,1895549000,0,22682386,22682386,0,22145419,Mcf,1326910,1203765,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55299,Channel Energy Center LLC,TX,ELECTRIC POWER,3,CA,NG,GAS,836142478,0,1154657,1154657,0,1114827,Mcf,67547,61278,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55299,Channel Energy Center LLC,TX,ELECTRIC POWER,3,CT,NG,GAS,3005772368,10914681,35065945,19014944,16051001,33897384,Mcf,2051343,1860967,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55309,Air Products Port Arthur,TX,INDUSTRIAL,7,GT,NG,GAS,1003414000,2495684,11606535,6713037,4893498,11412523,Mcf,678978,615964,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+55309,Air Products Port Arthur,TX,INDUSTRIAL,7,ST,NG,GAS,1237641,33675,74309,8280,66029,72426,Mcf,4347,3944,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+55311,BASF Freeport Works,TX,INDUSTRIAL,7,GT,NG,GAS,556436000,3429740,8247024,2970502,5276522,8045876,Mcf,482448,437674,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55311,BASF Freeport Works,TX,INDUSTRIAL,7,ST,NG,GAS,13772000,219752,392431,54349,338082,383490,Mcf,22957,20827,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55313,Ingleside Cogeneration,TX,INDUSTRIAL,7,CA,NG,GAS,545164922,42126,571350,509399,61951,554710,Mcf,33424,30322,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55313,Ingleside Cogeneration,TX,INDUSTRIAL,7,CT,NG,GAS,1964603000,6765523,22461046,12511745,9949301,21806841,Mcf,1313962,1192019,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55320,Wise County Power LLC,TX,ELECTRIC POWER,2,CA,NG,GAS,325841430,0,3497,3497,0,3476,Mcf,205,186,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55320,Wise County Power LLC,TX,ELECTRIC POWER,2,CT,NG,GAS,537215100,0,6478309,6478309,0,6428618,Mcf,378978,343807,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55327,Baytown Energy Center,TX,ELECTRIC POWER,3,CA,NG,GAS,1097248000,0,114969,114969,0,113414,Mcf,6726,6101,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55327,Baytown Energy Center,TX,ELECTRIC POWER,3,CT,NG,GAS,2988073000,2815159,32472765,27161142,5311623,31842895,Mcf,1899643,1723345,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55357,Jack Fusco Energy Center,TX,ELECTRIC POWER,2,CA,NG,GAS,870821000,0,525809,525809,0,511741,Mcf,30760,27905,TRE,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+55357,Jack Fusco Energy Center,TX,ELECTRIC POWER,2,CT,NG,GAS,1450453000,0,16410146,16410146,0,15975429,Mcf,959987,870894,TRE,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+55358,Cottonwood Energy Project,TX,ELECTRIC POWER,2,CA,NG,GAS,2382881000,0,3521640,3521640,0,3350288,Mcf,206015,186895,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+55358,Cottonwood Energy Project,TX,ELECTRIC POWER,2,CT,NG,GAS,3920392000,0,42815569,42815569,0,40748259,Mcf,2504693,2272243,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+55365,Exelon LaPorte Generating Station,TX,ELECTRIC POWER,2,GT,NG,GAS,78775000,0,1027985,1027985,0,993224,Mcf,60137,54556,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55390,State Farm Insur Support Center Central,TX,COMMERCIAL,4,IC,DFO,PET,97000,0,1544,1544,0,266,Barrels,125,113,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55464,Deer Park Energy Center,TX,ELECTRIC POWER,3,CA,NG,GAS,920023000,250492,5721967,5258095,463872,5555309,Mcf,334733,303668,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55464,Deer Park Energy Center,TX,ELECTRIC POWER,3,CT,NG,GAS,5812252000,13436680,63667614,38784873,24882741,61813218,Mcf,3724529,3378871,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55470,Green Power 2,TX,INDUSTRIAL,7,CA,NG,GAS,495569769,344966,1896798,1410930,485868,1849551,Mcf,110962,100664,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55470,Green Power 2,TX,INDUSTRIAL,7,CT,NG,GAS,3855205000,16328385,43398168,20400444,22997724,42339014,Mcf,2538775,2303162,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55480,Forney Energy Center,TX,ELECTRIC POWER,2,CA,NG,GAS,3779087000,0,4234656,4234656,0,4104293,Mcf,247726,224735,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55480,Forney Energy Center,TX,ELECTRIC POWER,2,CT,NG,GAS,5906384000,0,65887972,65887972,0,63893318,Mcf,3854419,3496706,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55545,Hidalgo Energy Center,TX,ELECTRIC POWER,2,CA,NG,GAS,868118000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55545,Hidalgo Energy Center,TX,ELECTRIC POWER,2,CT,NG,GAS,1476712000,0,17340855,17340855,0,16761019,Mcf,1014433,920288,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+55664,Harrison County Power Project,TX,ELECTRIC POWER,1,CA,NG,GAS,763718000,0,370567,370567,0,367627,Mcf,21678,19666,SPP,SWPP,Southwest Power Pool,Central
+55664,Harrison County Power Project,TX,ELECTRIC POWER,1,CT,NG,GAS,1229120000,0,14326363,14326363,0,14198025,Mcf,838086,760307,SPP,SWPP,Southwest Power Pool,Central
+56152,Freeport Energy Center,TX,INDUSTRIAL,7,CA,NG,GAS,244978350,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56152,Freeport Energy Center,TX,INDUSTRIAL,7,CT,NG,GAS,1055805230,3959582,12193031,6536485,5656546,11837895,Mcf,713287,647090,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56233,EG178 Facility,TX,INDUSTRIAL,6,CA,NG,GAS,142214000,0,102147,102147,0,107141,Mcf,5976,5421,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56233,EG178 Facility,TX,INDUSTRIAL,6,CT,NG,GAS,695000000,0,6498047,6498047,0,6781484,Mcf,380133,344854,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56326,Mustang Station Unit 4,TX,ELECTRIC POWER,1,GT,NG,GAS,408929000,0,4618653,4618653,0,4449569,Mcf,270189,245114,SPP,SWPP,Southwest Power Pool,Central
+56349,Quail Run Energy Center,TX,ELECTRIC POWER,2,CA,NG,GAS,177374000,0,90051,90051,0,85028,Mcf,5268,4779,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56349,Quail Run Energy Center,TX,ELECTRIC POWER,2,CT,NG,GAS,317175000,0,4183811,4183811,0,3945549,Mcf,244751,222037,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56350,Colorado Bend Energy Center,TX,ELECTRIC POWER,2,CA,NG,GAS,902667000,0,898104,898104,0,876200,Mcf,52539,47663,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56350,Colorado Bend Energy Center,TX,ELECTRIC POWER,2,CT,NG,GAS,1262609000,0,17531120,17531120,0,17103530,Mcf,1025563,930385,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56374,Robert Mueller Energy Center,TX,ELECTRIC POWER,1,GT,NG,GAS,28589000,13763,378355,332487,45868,368408,Mcf,22134,20079,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56374,Robert Mueller Energy Center,TX,ELECTRIC POWER,1,IC,DFO,PET,19000,6,237,215,22,40,Barrels,19,17,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56603,San Jacinto County Peaking Facility,TX,ELECTRIC POWER,1,GT,NG,GAS,175149000,0,2255926,2255926,0,2203054,Mcf,131971,119723,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+56604,Hardin County Peaking Facility,TX,ELECTRIC POWER,1,GT,NG,GAS,70922000,0,909377,909377,0,918562,Mcf,53198,48261,SERC,MISO,"Midcontinent Independent System Operator, Inc.",Midwest
+56611,Sandy Creek Energy Station,TX,ELECTRIC POWER,2,ST,SUB,COAL,6331884000,0,59448114,59448114,0,3459460,Tons,6369540,5778409,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56674,Winchester Power Park,TX,ELECTRIC POWER,1,GT,NG,GAS,64081000,0,624745,624745,0,606549,Mcf,36547,33156,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56708,CFB Power Plant,TX,INDUSTRIAL,6,ST,NG,GAS,500484000,0,6502963,6502963,0,6354484,Mcf,380421,345115,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56806,Cedar Bayou 4,TX,ELECTRIC POWER,2,CA,NG,GAS,479197000,0,0,0,0,0,Mcf,0,0,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+56806,Cedar Bayou 4,TX,ELECTRIC POWER,2,CT,NG,GAS,951776000,0,11117915,11117915,0,10586916,Mcf,650393,590033,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+57322,Mont Belvieu Cogeneration Unit,TX,INDUSTRIAL,7,GT,NG,GAS,91261000,1418337,2275947,409715,1866232,2231321,Mcf,133142,120786,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+57504,TECO CHP-1,TX,COMMERCIAL,5,GT,NG,GAS,53770000,213138,663209,349772,313437,637700,Mcf,38797,35197,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+57865,Antelope Station,TX,ELECTRIC POWER,1,IC,NG,GAS,92551000,0,904438,904438,0,866319,Mcf,52909,47999,SPP,SWPP,Southwest Power Pool,Central
+57952,Woodall Gas Plant,TX,INDUSTRIAL,6,IC,NG,GAS,23774800,0,308096,308096,0,290931,Mcf,18023,16351,SPP,SWPP,Southwest Power Pool,Central
+58001,Panda Temple Power Station,TX,ELECTRIC POWER,2,CA,NG,GAS,1397339000,0,2262007,2262007,0,2241196,Mcf,132326,120046,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58001,Panda Temple Power Station,TX,ELECTRIC POWER,2,CT,NG,GAS,1841269000,0,21445182,21445182,0,21259929,Mcf,1254534,1138106,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58005,Panda Sherman Power Station,TX,ELECTRIC POWER,2,CA,NG,GAS,1273455000,0,2211541,2211541,0,2159149,Mcf,129374,117368,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58005,Panda Sherman Power Station,TX,ELECTRIC POWER,2,CT,NG,GAS,1639893000,0,18762887,18762887,0,18322222,Mcf,1097621,995755,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58069,PRSI FCC Generator,TX,INDUSTRIAL,7,ST,PC,PET,26190,55369,138655,230,138425,5337,Tons,15605,14157,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58151,Central Utility Plant - Texas A&M,TX,COMMERCIAL,5,CA,NG,GAS,35172417,173461,430502,159471,271031,423505,Mcf,25184,22847,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58151,Central Utility Plant - Texas A&M,TX,COMMERCIAL,5,CA,DFO,PET,2693,102,175,15,160,30,Barrels,14,13,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58151,Central Utility Plant - Texas A&M,TX,COMMERCIAL,5,CT,NG,GAS,149115190,493815,1624988,853401,771587,1598580,Mcf,95061,86239,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58378,W.A. Parish Carbon Capture Plant,TX,ELECTRIC POWER,2,GT,NG,GAS,271283000,0,5674141,5674141,0,5535746,Mcf,331935,301129,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58471,Ector County Energy Center,TX,ELECTRIC POWER,2,GT,NG,GAS,241343000,0,2686846,2686846,0,2634162,Mcf,157179,142592,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+58562,Montana Power Station,TX,ELECTRIC POWER,1,GT,NG,GAS,1044637838,0,9662969,9662969,0,9159213,Mcf,565280,512818,WECC,EPE,El Paso Electric Company,Southwest
+58562,Montana Power Station,TX,ELECTRIC POWER,1,GT,DFO,PET,30162,0,282,282,0,45,Barrels,23,21,WECC,EPE,El Paso Electric Company,Southwest
+58835,Elk Station,TX,ELECTRIC POWER,1,GT,NG,GAS,93678000,0,1135252,1135252,0,1087405,Mcf,66412,60248,SPP,SWPP,Southwest Power Pool,Central
+59381,"The Methodist Hospital, Gas Turbine",TX,COMMERCIAL,5,GT,NG,GAS,31024000,13370,397413,352849,44564,389619,Mcf,23248,21091,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+59391,Red Gate Power Plant,TX,ELECTRIC POWER,1,IC,NG,GAS,230397000,0,2127786,2127786,0,2058152,Mcf,124475,112923,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+59812,Wolf Hollow II,TX,ELECTRIC POWER,2,CA,NG,GAS,1229693000,0,8867853,8867853,0,8567974,Mcf,518766,470621,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+59812,Wolf Hollow II,TX,ELECTRIC POWER,2,CT,NG,GAS,2373661000,0,17036913,17036913,0,16510134,Mcf,996652,904157,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+59938,Sky Global Power One,TX,ELECTRIC POWER,2,IC,NG,GAS,52309460,0,495086,495086,0,476046,Mcf,28962,26274,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+60122,Colorado Bend II,TX,ELECTRIC POWER,2,CA,NG,GAS,1059459000,0,6993577,6993577,0,6823002,Mcf,409121,371152,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+60122,Colorado Bend II,TX,ELECTRIC POWER,2,CT,NG,GAS,2060920000,0,13602244,13602244,0,13270482,Mcf,795726,721878,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+60264,Bacliff,TX,ELECTRIC POWER,2,GT,NG,GAS,4318000,0,73283,73283,0,71778,Mcf,4287,3889,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+60459,Port Comfort Power LLC,TX,ELECTRIC POWER,2,GT,NG,GAS,19515000,0,197693,197693,0,190639,Mcf,11565,10492,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+60460,Chamon Power LLC,TX,ELECTRIC POWER,2,GT,NG,GAS,5640000,0,59166,59166,0,57055,Mcf,3461,3140,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
+99999,Partially Reporting Facilities,TX,ELECTRIC POWER,3,GT,NG,GAS,12171000,52963,195641,97564,98077,195641,Mcf,11445,10383,TRE,ERCO,"Electric Reliability Council of Texas, Inc.","Electric Reliability Council of Texas, Inc."
