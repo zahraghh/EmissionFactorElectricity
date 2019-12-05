@@ -1,0 +1,479 @@
+Plant Code,Plant Name,State,Sector Group,Sector Code,Prime Mover,Fuel Code,Aggregated Fuel Group,Generation (kWh),Useful Thermal Output (MMBtu),Total Fuel Consumption (MMBtu),Fuel Consumption for Electric Generation (MMBtu),"
+ Fuel Consumption for Useful Thermal Output (MMBtu)",Quantity of Fuel Consumed,Fuel Units,Tons of CO2 Emissions,Metric Tonnes of CO2 Emissions,NERC Region,Balancing Authority Code,Balancing Authority Name,EIA Balancing Authority Region
+151,McClure,CA,ELECTRIC POWER,1,GT,NG,GAS,2271624,0,37729,37729,0,36174,Mcf,2207,2002,WECC,BANC,Balancing Authority of Northern California,California
+151,McClure,CA,ELECTRIC POWER,1,GT,DFO,PET,2005376,0,33308,33308,0,5718,Barrels,2686,2437,WECC,BANC,Balancing Authority of Northern California,California
+246,Humboldt Bay,CA,ELECTRIC POWER,1,IC,NG,GAS,428528491,0,3817287,3817287,0,3669635,Mcf,223310,202585,WECC,CISO,California Independent System Operator,California
+246,Humboldt Bay,CA,ELECTRIC POWER,1,IC,DFO,PET,3053509,0,27090,27090,0,4704,Barrels,2185,1982,WECC,CISO,California Independent System Operator,California
+260,Dynegy Moss Landing Power Plant,CA,ELECTRIC POWER,2,CA,NG,GAS,818984000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+260,Dynegy Moss Landing Power Plant,CA,ELECTRIC POWER,2,CT,NG,GAS,1525654000,0,16822659,16822659,0,16173363,Mcf,984119,892787,WECC,CISO,California Independent System Operator,California
+286,Geysers Unit 5-20,CA,ELECTRIC POWER,2,ST,GEO,GEO,4667659000,0,15926053,43003142,0,0,,135352,122791,WECC,CISO,California Independent System Operator,California
+302,Encina,CA,ELECTRIC POWER,2,GT,NG,GAS,3061000,0,52275,52275,0,50311,Mcf,3058,2774,WECC,CISO,California Independent System Operator,California
+302,Encina,CA,ELECTRIC POWER,2,ST,NG,GAS,465941000,0,6440133,6440133,0,6198444,Mcf,376745,341781,WECC,CISO,California Independent System Operator,California
+303,Kearny,CA,ELECTRIC POWER,2,GT,NG,GAS,8474000,0,111774,111774,0,107476,Mcf,6539,5932,WECC,CISO,California Independent System Operator,California
+315,AES Alamitos LLC,CA,ELECTRIC POWER,2,ST,NG,GAS,855083000,0,10070588,10070588,0,9781317,Mcf,589125,534451,WECC,CISO,California Independent System Operator,California
+331,Etiwanda Generating Station,CA,ELECTRIC POWER,2,ST,NG,GAS,132953000,0,1673324,1673324,0,1621724,Mcf,97889,88804,WECC,CISO,California Independent System Operator,California
+335,AES Huntington Beach LLC,CA,ELECTRIC POWER,2,ST,NG,GAS,408970000,0,4579360,4579360,0,4423907,Mcf,267891,243029,WECC,CISO,California Independent System Operator,California
+341,Long Beach Generation LLC,CA,ELECTRIC POWER,2,GT,NG,GAS,32383000,0,537920,537920,0,527373,Mcf,31468,28548,WECC,CISO,California Independent System Operator,California
+345,Mandalay,CA,ELECTRIC POWER,2,GT,NG,GAS,15374000,0,313104,313104,0,300715,Mcf,18316,16617,WECC,CISO,California Independent System Operator,California
+345,Mandalay,CA,ELECTRIC POWER,2,ST,NG,GAS,136579000,0,1472755,1472755,0,1418966,Mcf,86156,78160,WECC,CISO,California Independent System Operator,California
+350,Ormond Beach,CA,ELECTRIC POWER,2,ST,NG,GAS,239531000,0,2796878,2796878,0,2699883,Mcf,163616,148432,WECC,CISO,California Independent System Operator,California
+356,AES Redondo Beach LLC,CA,ELECTRIC POWER,2,ST,NG,GAS,514578000,0,6401857,6401857,0,6182585,Mcf,374506,339750,WECC,CISO,California Independent System Operator,California
+358,Mountainview Generating Station,CA,ELECTRIC POWER,1,CA,NG,GAS,1548996880,0,389336,389336,0,370797,Mcf,22776,20662,WECC,CISO,California Independent System Operator,California
+358,Mountainview Generating Station,CA,ELECTRIC POWER,1,CT,NG,GAS,2491509990,0,31318875,31318875,0,29827500,Mcf,1832141,1662108,WECC,CISO,California Independent System Operator,California
+377,Grayson,CA,ELECTRIC POWER,1,CA,NG,GAS,597000,0,0,0,0,0,Mcf,0,0,WECC,LDWP,Los Angeles Department of Water and Power,California
+377,Grayson,CA,ELECTRIC POWER,1,CT,NG,GAS,5170000,0,64643,64643,0,62555,Mcf,3782,3431,WECC,LDWP,Los Angeles Department of Water and Power,California
+377,Grayson,CA,ELECTRIC POWER,1,GT,NG,GAS,15411000,0,159268,159268,0,154060,Mcf,9317,8452,WECC,LDWP,Los Angeles Department of Water and Power,California
+377,Grayson,CA,ELECTRIC POWER,1,ST,NG,GAS,70566566,0,952708,952708,0,920993,Mcf,55733,50561,WECC,LDWP,Los Angeles Department of Water and Power,California
+389,El Centro,CA,ELECTRIC POWER,1,CA,NG,GAS,331453000,0,0,0,0,0,Mcf,0,0,WECC,IID,Imperial Irrigation District,California
+389,El Centro,CA,ELECTRIC POWER,1,CT,NG,GAS,700715000,0,8474965,8474965,0,8161345,Mcf,495782,449770,WECC,IID,Imperial Irrigation District,California
+389,El Centro,CA,ELECTRIC POWER,1,ST,NG,GAS,16084000,0,236360,236360,0,226097,Mcf,13827,12544,WECC,IID,Imperial Irrigation District,California
+399,Harbor,CA,ELECTRIC POWER,1,CA,NG,GAS,16550000,0,0,0,0,0,Mcf,0,0,WECC,LDWP,Los Angeles Department of Water and Power,California
+399,Harbor,CA,ELECTRIC POWER,1,CT,NG,GAS,47318000,0,779156,779156,0,754153,Mcf,45580,41350,WECC,LDWP,Los Angeles Department of Water and Power,California
+399,Harbor,CA,ELECTRIC POWER,1,GT,NG,GAS,15355000,0,183657,183657,0,177715,Mcf,10744,9747,WECC,LDWP,Los Angeles Department of Water and Power,California
+400,Haynes,CA,ELECTRIC POWER,1,CA,NG,GAS,916374000,0,269162,269162,0,260674,Mcf,15746,14285,WECC,LDWP,Los Angeles Department of Water and Power,California
+400,Haynes,CA,ELECTRIC POWER,1,CT,NG,GAS,1557491000,0,17478234,17478234,0,16929617,Mcf,1022470,927578,WECC,LDWP,Los Angeles Department of Water and Power,California
+400,Haynes,CA,ELECTRIC POWER,1,GT,NG,GAS,185280000,0,1729828,1729828,0,1676071,Mcf,101194,91803,WECC,LDWP,Los Angeles Department of Water and Power,California
+400,Haynes,CA,ELECTRIC POWER,1,ST,NG,GAS,194776000,0,2278436,2278436,0,2206265,Mcf,133288,120918,WECC,LDWP,Los Angeles Department of Water and Power,California
+404,Scattergood,CA,ELECTRIC POWER,1,CA,NG,GAS,623905000,0,0,0,0,0,Mcf,0,0,WECC,LDWP,Los Angeles Department of Water and Power,California
+404,Scattergood,CA,ELECTRIC POWER,1,CT,NG,GAS,1200119000,0,12879685,12879685,0,12432659,Mcf,753456,683531,WECC,LDWP,Los Angeles Department of Water and Power,California
+404,Scattergood,CA,ELECTRIC POWER,1,GT,NG,GAS,60244000,0,546611,546611,0,527871,Mcf,31977,29009,WECC,LDWP,Los Angeles Department of Water and Power,California
+404,Scattergood,CA,ELECTRIC POWER,1,ST,NG,GAS,106845248,0,1227141,1227141,0,1183885,Mcf,71787,65125,WECC,LDWP,Los Angeles Department of Water and Power,California
+408,Valley (CA),CA,ELECTRIC POWER,1,CA,NG,GAS,557726000,0,0,0,0,0,Mcf,0,0,WECC,LDWP,Los Angeles Department of Water and Power,California
+408,Valley (CA),CA,ELECTRIC POWER,1,CT,NG,GAS,914989000,0,11119329,11119329,0,10754294,Mcf,650476,590108,WECC,LDWP,Los Angeles Department of Water and Power,California
+408,Valley (CA),CA,ELECTRIC POWER,1,GT,NG,GAS,4557000,0,52548,52548,0,50815,Mcf,3074,2789,WECC,LDWP,Los Angeles Department of Water and Power,California
+422,Glenarm,CA,ELECTRIC POWER,1,CT,NG,GAS,43042000,0,452249,452249,0,435776,Mcf,26456,24001,WECC,CISO,California Independent System Operator,California
+422,Glenarm,CA,ELECTRIC POWER,1,GT,NG,GAS,36147000,0,400770,400770,0,393299,Mcf,23445,21269,WECC,CISO,California Independent System Operator,California
+510,Sonoma California Geothermal,CA,ELECTRIC POWER,2,ST,GEO,GEO,421669000,0,1438735,3884838,0,0,,12228,11093,WECC,CISO,California Independent System Operator,California
+535,McClellan (CA),CA,ELECTRIC POWER,1,GT,NG,GAS,8862000,0,112266,112266,0,110066,Mcf,6568,5958,WECC,BANC,Balancing Authority of Northern California,California
+4256,Walnut,CA,ELECTRIC POWER,1,GT,NG,GAS,132388,0,6020,6020,0,5778,Mcf,352,319,WECC,TIDC,Turlock Irrigation District,California
+4256,Walnut,CA,ELECTRIC POWER,1,GT,DFO,PET,174612,0,7941,7941,0,1376,Barrels,640,581,WECC,TIDC,Turlock Irrigation District,California
+6060,Coachella,CA,ELECTRIC POWER,1,GT,NG,GAS,2017925,0,35280,35280,0,33923,Mcf,2064,1872,WECC,IID,Imperial Irrigation District,California
+6060,Coachella,CA,ELECTRIC POWER,1,GT,DFO,PET,54075,0,947,947,0,163,Barrels,76,69,WECC,IID,Imperial Irrigation District,California
+6211,Dynegy Oakland Power Plant,CA,ELECTRIC POWER,2,GT,JF,PET,2009000,0,29287,29287,0,5257,Barrels,2289,2076,WECC,CISO,California Independent System Operator,California
+6518,Kings Beach,CA,ELECTRIC POWER,1,IC,DFO,PET,314000,0,4323,4323,0,741,Barrels,349,316,WECC,NEVP,Nevada Power Company,Northwest
+6704,Pebbly Beach,CA,ELECTRIC POWER,1,GT,PG,PET,1321000,0,16977,16977,0,6753,Mcf,1180,1071,WECC,CISO,California Independent System Operator,California
+6704,Pebbly Beach,CA,ELECTRIC POWER,1,IC,DFO,PET,27418000,0,294542,294542,0,51455,Barrels,23753,21549,WECC,CISO,California Independent System Operator,California
+7231,Gianera,CA,ELECTRIC POWER,1,GT,NG,GAS,5495000,0,89456,89456,0,86182,Mcf,5233,4747,WECC,CISO,California Independent System Operator,California
+7232,Santa Clara Cogen,CA,ELECTRIC POWER,1,GT,NG,GAS,46435000,79951,812027,545521,266506,782300,Mcf,47503,43095,WECC,CISO,California Independent System Operator,California
+7266,Woodland,CA,ELECTRIC POWER,1,CA,NG,GAS,33416000,0,310629,310629,0,299546,Mcf,18172,16485,WECC,BANC,Balancing Authority of Northern California,California
+7266,Woodland,CA,ELECTRIC POWER,1,CT,NG,GAS,187989000,0,1332007,1332007,0,1281973,Mcf,77922,70690,WECC,BANC,Balancing Authority of Northern California,California
+7266,Woodland,CA,ELECTRIC POWER,1,GT,NG,GAS,145553000,0,1334207,1334207,0,1288075,Mcf,78051,70807,WECC,BANC,Balancing Authority of Northern California,California
+7266,Woodland,CA,ELECTRIC POWER,1,IC,NG,GAS,62384000,0,606574,606574,0,583846,Mcf,35484,32191,WECC,BANC,Balancing Authority of Northern California,California
+7307,Redding Power,CA,ELECTRIC POWER,1,CA,NG,GAS,50317000,0,0,0,0,0,Mcf,0,0,WECC,BANC,Balancing Authority of Northern California,California
+7307,Redding Power,CA,ELECTRIC POWER,1,CT,NG,GAS,137962000,0,1606338,1606338,0,1541251,Mcf,93970,85249,WECC,BANC,Balancing Authority of Northern California,California
+7307,Redding Power,CA,ELECTRIC POWER,1,GT,NG,GAS,2877000,0,45386,45386,0,43523,Mcf,2655,2409,WECC,BANC,Balancing Authority of Northern California,California
+7315,Almond Power Plant,CA,ELECTRIC POWER,1,GT,NG,GAS,182098000,0,1950020,1950020,0,1874477,Mcf,114075,103489,WECC,TIDC,Turlock Irrigation District,California
+7368,Geothermal 1,CA,ELECTRIC POWER,1,ST,GEO,GEO,415905000,0,1419068,3831731,0,0,,12060,10941,WECC,CISO,California Independent System Operator,California
+7369,Geothermal 2,CA,ELECTRIC POWER,1,ST,GEO,GEO,355038000,0,1211390,3270966,0,0,,10295,9340,WECC,CISO,California Independent System Operator,California
+7449,Combustion Turbine Project No 2,CA,ELECTRIC POWER,1,GT,NG,GAS,11081000,0,103558,103558,0,99766,Mcf,6058,5496,WECC,CISO,California Independent System Operator,California
+7450,Alameda,CA,ELECTRIC POWER,1,GT,NG,GAS,13155000,0,214453,214453,0,206205,Mcf,12545,11381,WECC,CISO,California Independent System Operator,California
+7451,Lodi,CA,ELECTRIC POWER,1,GT,NG,GAS,4132000,0,65832,65832,0,63301,Mcf,3851,3494,WECC,CISO,California Independent System Operator,California
+7452,Roseville,CA,ELECTRIC POWER,1,GT,NG,GAS,1282140,0,20685,20685,0,20685,Mcf,1210,1098,WECC,CISO,California Independent System Operator,California
+7452,Roseville,CA,ELECTRIC POWER,1,GT,DFO,PET,1860,0,30,30,0,5,Barrels,2,2,WECC,CISO,California Independent System Operator,California
+7527,Carson Ice-Gen Project,CA,ELECTRIC POWER,1,CA,NG,GAS,50232461,0,0,0,0,0,Mcf,0,0,WECC,BANC,Balancing Authority of Northern California,California
+7527,Carson Ice-Gen Project,CA,ELECTRIC POWER,1,CT,NG,GAS,216292634,129911,2422062,2119945,302117,2374571,Mcf,141690,128540,WECC,BANC,Balancing Authority of Northern California,California
+7527,Carson Ice-Gen Project,CA,ELECTRIC POWER,1,GT,NG,GAS,9632000,11293,103950,77690,26260,101911,Mcf,6081,5517,WECC,BANC,Balancing Authority of Northern California,California
+7551,SCA Cogen 2,CA,ELECTRIC POWER,1,CA,NG,GAS,90989000,0,45058,45058,0,44175,Mcf,2636,2391,WECC,BANC,Balancing Authority of Northern California,California
+7551,SCA Cogen 2,CA,ELECTRIC POWER,1,CT,NG,GAS,476197000,618563,5346565,4084193,1262372,5241730,Mcf,312772,283745,WECC,BANC,Balancing Authority of Northern California,California
+7551,SCA Cogen 2,CA,ELECTRIC POWER,1,GT,NG,GAS,25596000,48046,284099,186045,98054,278530,Mcf,16620,15077,WECC,BANC,Balancing Authority of Northern California,California
+7552,SPA Cogen 3,CA,ELECTRIC POWER,1,CA,NG,GAS,191603000,0,0,0,0,0,Mcf,0,0,WECC,BANC,Balancing Authority of Northern California,California
+7552,SPA Cogen 3,CA,ELECTRIC POWER,1,CT,NG,GAS,331581000,82763,4367628,4175153,192475,4281990,Mcf,255504,231792,WECC,BANC,Balancing Authority of Northern California,California
+7693,Anaheim GT,CA,ELECTRIC POWER,1,GT,NG,GAS,76188000,0,739994,739994,0,718440,Mcf,43289,39272,WECC,CISO,California Independent System Operator,California
+7824,Rockwood,CA,ELECTRIC POWER,1,GT,NG,GAS,1959065,0,27986,27986,0,26910,Mcf,1637,1485,WECC,IID,Imperial Irrigation District,California
+7824,Rockwood,CA,ELECTRIC POWER,1,GT,DFO,PET,157935,0,2256,2256,0,389,Barrels,182,165,WECC,IID,Imperial Irrigation District,California
+7987,Lake One,CA,ELECTRIC POWER,1,GT,NG,GAS,14769000,0,157814,157814,0,152330,Mcf,9232,8375,WECC,LDWP,Los Angeles Department of Water and Power,California
+8076,Ellwood,CA,ELECTRIC POWER,2,GT,NG,GAS,9176000,0,123128,123128,0,118392,Mcf,7203,6534,WECC,CISO,California Independent System Operator,California
+10026,Encina Water Pollution Control,CA,COMMERCIAL,4,IC,NG,GAS,1131363,0,11251,11251,0,11251,Mcf,658,597,WECC,CISO,California Independent System Operator,California
+10034,Gilroy Power Plant,CA,ELECTRIC POWER,3,CA,NG,GAS,32620000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10034,Gilroy Power Plant,CA,ELECTRIC POWER,3,CT,NG,GAS,82916000,72541,1056752,899052,157700,1016279,Mcf,61820,56082,WECC,CISO,California Independent System Operator,California
+10042,Kaweah Delta District Hospital,CA,COMMERCIAL,4,GT,NG,GAS,18684680,0,324112,324112,0,294646,Mcf,18960,17201,WECC,CISO,California Independent System Operator,California
+10052,Fairhaven Power,CA,ELECTRIC POWER,2,ST,NG,GAS,199466,0,4023,4023,0,4023,Mcf,235,214,WECC,CISO,California Independent System Operator,California
+10090,Commerce Refuse To Energy,CA,ELECTRIC POWER,2,ST,NG,GAS,6877352,0,104509,104509,0,101563,Mcf,6114,5546,WECC,CISO,California Independent System Operator,California
+10090,Commerce Refuse To Energy,CA,ELECTRIC POWER,2,ST,MSW,MSW,64705648,0,983314,983314,0,98008,Tons,45188,40995,WECC,CISO,California Independent System Operator,California
+10091,Total Energy Facilities,CA,COMMERCIAL,5,CA,NG,GAS,370949,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10091,Total Energy Facilities,CA,COMMERCIAL,5,CT,NG,GAS,7848601,1369,89965,86161,3804,89965,Mcf,5263,4774,WECC,CISO,California Independent System Operator,California
+10110,Frito-Lay Cogen Plant,CA,INDUSTRIAL,7,GT,NG,GAS,28175000,59487,361521,232201,129320,351332,Mcf,21149,19186,WECC,CISO,California Independent System Operator,California
+10115,Grossmont Hospital,CA,COMMERCIAL,5,GT,NG,GAS,24710000,15753602,26397982,141980,26256002,25407106,Mcf,1544271,1400954,WECC,CISO,California Independent System Operator,California
+10156,Fresno Cogen Partners,CA,ELECTRIC POWER,3,CA,NG,GAS,2358000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10156,Fresno Cogen Partners,CA,ELECTRIC POWER,3,CT,NG,GAS,16519000,2095,192074,186254,5820,184492,Mcf,11236,10193,WECC,CISO,California Independent System Operator,California
+10156,Fresno Cogen Partners,CA,ELECTRIC POWER,3,GT,NG,GAS,4845000,11843,79524,46630,32894,78348,Mcf,4652,4220,WECC,CISO,California Independent System Operator,California
+10169,Carson Cogeneration,CA,ELECTRIC POWER,3,CA,NG,GAS,973000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10169,Carson Cogeneration,CA,ELECTRIC POWER,3,CT,NG,GAS,3868000,1770,46052,41839,4213,44885,Mcf,2694,2444,WECC,CISO,California Independent System Operator,California
+10175,Childrens Hospital,CA,COMMERCIAL,5,GT,NG,GAS,25414000,70879,410228,233033,177195,395345,Mcf,23998,21771,WECC,CISO,California Independent System Operator,California
+10175,Childrens Hospital,CA,COMMERCIAL,5,IC,DFO,PET,12000,4,144,132,12,24,Barrels,12,11,WECC,CISO,California Independent System Operator,California
+10206,Loma Linda University Cogen,CA,COMMERCIAL,5,GT,NG,GAS,59781000,312197,983501,394452,589049,973762,Mcf,57534,52195,WECC,CISO,California Independent System Operator,California
+10206,Loma Linda University Cogen,CA,COMMERCIAL,5,IC,DFO,PET,2000,0,12,12,0,2,Barrels,1,1,WECC,CISO,California Independent System Operator,California
+10213,El Segundo Cogen,CA,INDUSTRIAL,7,CA,NG,GAS,106389714,4986,92106,75485,16621,113291,Mcf,5388,4888,WECC,CISO,California Independent System Operator,California
+10213,El Segundo Cogen,CA,INDUSTRIAL,7,CT,NG,GAS,1239811000,104354,15374094,15026251,347843,15301277,Mcf,899378,815911,WECC,CISO,California Independent System Operator,California
+10262,California Institute of Technology,CA,COMMERCIAL,5,CA,NG,GAS,10461000,40226,95368,40264,55104,92114,Mcf,5579,5061,WECC,CISO,California Independent System Operator,California
+10262,California Institute of Technology,CA,COMMERCIAL,5,CT,NG,GAS,79835000,449338,1013286,397754,615532,979528,Mcf,59277,53776,WECC,CISO,California Independent System Operator,California
+10294,King City Power Plant,CA,ELECTRIC POWER,3,CA,NG,GAS,118128000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10294,King City Power Plant,CA,ELECTRIC POWER,3,CT,NG,GAS,265247000,134669,3309581,3010317,299264,3187429,Mcf,193609,175641,WECC,CISO,California Independent System Operator,California
+10300,Desert View Power,CA,ELECTRIC POWER,2,ST,NG,GAS,2301479,0,36833,36833,0,36467,Mcf,2155,1955,WECC,IID,Imperial Irrigation District,California
+10342,Foster Wheeler Martinez,CA,ELECTRIC POWER,3,CA,NG,GAS,132809000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10342,Foster Wheeler Martinez,CA,ELECTRIC POWER,3,CT,NG,GAS,609556000,1769135,7659659,4555913,3103746,7382279,Mcf,448087,406502,WECC,CISO,California Independent System Operator,California
+10349,Greenleaf 2 Power Plant,CA,ELECTRIC POWER,3,GT,NG,GAS,234028000,235427,2330657,1807487,523170,2330110,Mcf,136342,123689,WECC,CISO,California Independent System Operator,California
+10350,Greenleaf 1 Power Plant,CA,ELECTRIC POWER,3,CA,NG,GAS,3279000,0,6549,6549,0,6647,Mcf,383,348,WECC,CISO,California Independent System Operator,California
+10350,Greenleaf 1 Power Plant,CA,ELECTRIC POWER,3,CT,NG,GAS,22336000,11380,222438,196574,25864,225433,Mcf,13013,11805,WECC,CISO,California Independent System Operator,California
+10405,Kingsburg Cogen,CA,ELECTRIC POWER,3,CA,NG,GAS,3820000,534,40383,38813,1570,39037,Mcf,2362,2143,WECC,CISO,California Independent System Operator,California
+10405,Kingsburg Cogen,CA,ELECTRIC POWER,3,CT,NG,GAS,10811000,4089,123960,111934,12026,119919,Mcf,7252,6579,WECC,CISO,California Independent System Operator,California
+10427,New-Indy Ontario Mill,CA,INDUSTRIAL,7,GT,NG,GAS,241924000,1283632,3484512,1414138,2070374,3370854,Mcf,203843,184925,WECC,CISO,California Independent System Operator,California
+10439,SEGS III,CA,ELECTRIC POWER,2,ST,NG,GAS,668000,0,10266,10266,0,9986,Mcf,601,545,WECC,CISO,California Independent System Operator,California
+10440,SEGS IV,CA,ELECTRIC POWER,2,ST,NG,GAS,570000,0,9768,9768,0,9502,Mcf,571,518,WECC,CISO,California Independent System Operator,California
+10441,SEGS V,CA,ELECTRIC POWER,2,ST,NG,GAS,7708000,0,146288,146288,0,142344,Mcf,8558,7764,WECC,CISO,California Independent System Operator,California
+10442,SEGS VI,CA,ELECTRIC POWER,2,ST,NG,GAS,9513000,0,129085,129085,0,125500,Mcf,7551,6851,WECC,CISO,California Independent System Operator,California
+10443,SEGS VII,CA,ELECTRIC POWER,2,ST,NG,GAS,11049000,0,151128,151128,0,146934,Mcf,8841,8020,WECC,CISO,California Independent System Operator,California
+10444,SEGS VIII,CA,ELECTRIC POWER,2,ST,NG,GAS,20211000,0,292877,292877,0,284751,Mcf,17133,15543,WECC,CISO,California Independent System Operator,California
+10446,SEGS IX,CA,ELECTRIC POWER,2,ST,NG,GAS,20395000,0,272706,272706,0,265142,Mcf,15953,14473,WECC,CISO,California Independent System Operator,California
+10478,Pitchess Cogen Station,CA,COMMERCIAL,5,CA,NG,GAS,39966000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10478,Pitchess Cogen Station,CA,COMMERCIAL,5,CT,NG,GAS,158584000,156520,1810612,1477592,333020,1750206,Mcf,105920,96090,WECC,CISO,California Independent System Operator,California
+10479,Ples I,CA,ELECTRIC POWER,2,BT,GEO,GEO,96107000,0,327917,885434,0,0,,2787,2528,WECC,CISO,California Independent System Operator,California
+10480,Mammoth Pacific I,CA,ELECTRIC POWER,2,BT,GEO,GEO,58669000,0,200179,540519,0,0,,1701,1543,WECC,CISO,California Independent System Operator,California
+10481,Mammoth Pacific II,CA,ELECTRIC POWER,2,BT,GEO,GEO,61775000,0,210776,569134,0,0,,1791,1625,WECC,CISO,California Independent System Operator,California
+10496,Kern River Cogeneration,CA,ELECTRIC POWER,3,GT,NG,GAS,702884000,2405300,8363450,4216384,4147066,8119852,Mcf,489258,443852,WECC,CISO,California Independent System Operator,California
+10548,San Jose Cogeneration,CA,COMMERCIAL,5,GT,NG,GAS,36579000,83523,550889,336730,214159,530639,Mcf,32227,29236,WECC,CISO,California Independent System Operator,California
+10623,Civic Center,CA,COMMERCIAL,5,CA,NG,GAS,0,60954,81271,0,81271,78489,Mcf,4754,4313,WECC,LDWP,Los Angeles Department of Water and Power,California
+10623,Civic Center,CA,COMMERCIAL,5,CT,NG,GAS,135639000,803116,1747389,676572,1070817,1689202,Mcf,102222,92735,WECC,LDWP,Los Angeles Department of Water and Power,California
+10631,CE Leathers,CA,ELECTRIC POWER,2,ST,GEO,GEO,365299000,0,1246400,3365499,0,0,,10593,9610,WECC,IID,Imperial Irrigation District,California
+10632,Del Ranch Company,CA,ELECTRIC POWER,2,ST,GEO,GEO,301313000,0,1028080,2775996,0,0,,8737,7927,WECC,IID,Imperial Irrigation District,California
+10634,Elmore Company,CA,ELECTRIC POWER,2,ST,GEO,GEO,288346000,0,983837,2656532,0,0,,8361,7585,WECC,IID,Imperial Irrigation District,California
+10635,"Corona Energy Partners, Ltd",CA,ELECTRIC POWER,3,GT,NG,GAS,92772000,67484,927140,770199,156941,891481,Mcf,54237,49204,WECC,CISO,California Independent System Operator,California
+10649,Bear Mountain Limited,CA,ELECTRIC POWER,3,GT,NG,GAS,33818000,20213,312647,266709,45938,300622,Mcf,18290,16592,WECC,CISO,California Independent System Operator,California
+10650,Badger Creek Limited,CA,ELECTRIC POWER,3,GT,NG,GAS,15982000,14870,154244,121920,32324,148311,Mcf,9023,8186,WECC,CISO,California Independent System Operator,California
+10652,Burney Forest Products,CA,ELECTRIC POWER,3,ST,NG,GAS,10800681,11370,208468,162995,45473,205388,Mcf,12195,11063,WECC,CISO,California Independent System Operator,California
+10684,Argus Cogen Plant,CA,INDUSTRIAL,7,ST,BIT,COAL,7873504,303392,376777,35887,340890,16578,Tons,38750,35154,WECC,CISO,California Independent System Operator,California
+10684,Argus Cogen Plant,CA,INDUSTRIAL,7,ST,RC,COAL,283218658,11312155,14012438,1302152,12710286,613957,Tons,1441117,1307372,WECC,CISO,California Independent System Operator,California
+10684,Argus Cogen Plant,CA,INDUSTRIAL,7,ST,NG,GAS,13411838,583419,718475,62949,655526,699439,Mcf,42030,38130,WECC,CISO,California Independent System Operator,California
+10720,Kyocera International Project,CA,INDUSTRIAL,7,IC,NG,GAS,13018000,0,15465,15465,0,14897,Mcf,905,821,WECC,CISO,California Independent System Operator,California
+10759,Salton Sea Power Gen Co - Unit 3,CA,ELECTRIC POWER,2,ST,GEO,GEO,349159000,0,1191331,3216801,0,0,,10125,9185,WECC,IID,Imperial Irrigation District,California
+10763,Geo East Mesa III,CA,ELECTRIC POWER,2,BT,GEO,GEO,37659000,0,128493,346953,0,0,,1092,991,WECC,IID,Imperial Irrigation District,California
+10763,Geo East Mesa III,CA,ELECTRIC POWER,2,ST,GEO,GEO,37659000,0,128493,346953,0,0,,1092,991,WECC,IID,Imperial Irrigation District,California
+10767,Rio Bravo Fresno,CA,ELECTRIC POWER,2,ST,NG,GAS,1215233,0,18375,18375,0,17676,Mcf,1075,975,WECC,CISO,California Independent System Operator,California
+10772,Rio Bravo Rocklin,CA,ELECTRIC POWER,2,ST,NG,GAS,1166254,0,21462,21462,0,21462,Mcf,1256,1139,WECC,CISO,California Independent System Operator,California
+10776,E F Oxnard Energy Facility,CA,ELECTRIC POWER,3,GT,NG,GAS,163730000,84845,1497398,1304572,192826,1447824,Mcf,87597,79468,WECC,CISO,California Independent System Operator,California
+10777,HL Power,CA,ELECTRIC POWER,2,ST,NG,GAS,648056,0,13660,13660,0,13056,Mcf,799,725,WECC,CISO,California Independent System Operator,California
+10810,NTC/MCRD Energy Facility,CA,ELECTRIC POWER,3,CA,NG,GAS,18528000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10810,NTC/MCRD Energy Facility,CA,ELECTRIC POWER,3,CT,NG,GAS,163530000,255783,1925001,1380778,544223,1853318,Mcf,112612,102161,WECC,CISO,California Independent System Operator,California
+10811,Naval Station Energy Facility,CA,ELECTRIC POWER,3,CA,NG,GAS,71276570,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10811,Naval Station Energy Facility,CA,ELECTRIC POWER,3,CT,NG,GAS,286142240,341631,3718277,2923789,794488,3579449,Mcf,217518,197331,WECC,CISO,California Independent System Operator,California
+10812,North Island Energy Facility,CA,ELECTRIC POWER,3,CA,NG,GAS,14593000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+10812,North Island Energy Facility,CA,ELECTRIC POWER,3,CT,NG,GAS,286319000,468477,3003586,2085006,918580,2891054,Mcf,175709,159402,WECC,CISO,California Independent System Operator,California
+10836,Woodland Biomass Power Ltd,CA,ELECTRIC POWER,2,ST,NG,GAS,646622,0,12655,12655,0,12655,Mcf,740,672,WECC,CISO,California Independent System Operator,California
+10873,Coso Finance Partners,CA,ELECTRIC POWER,2,ST,GEO,GEO,473943000,0,1617094,4366437,0,0,,13743,12468,WECC,CISO,California Independent System Operator,California
+10874,Coso Power Developers,CA,ELECTRIC POWER,2,ST,GEO,GEO,404007000,0,1378472,3722116,0,0,,11715,10628,WECC,CISO,California Independent System Operator,California
+10875,Coso Energy Developers,CA,ELECTRIC POWER,2,ST,GEO,GEO,271722000,0,927115,2503374,0,0,,7879,7148,WECC,CISO,California Independent System Operator,California
+10878,Salton Sea Power Gen Co - Unit 1,CA,ELECTRIC POWER,2,ST,GEO,GEO,71378000,0,243542,657605,0,0,,2070,1878,WECC,IID,Imperial Irrigation District,California
+10879,Salton Sea Power Gen Co - Unit 2,CA,ELECTRIC POWER,2,ST,GEO,GEO,101370000,0,345874,933922,0,0,,2940,2667,WECC,IID,Imperial Irrigation District,California
+10884,Olive View Medical Center,CA,COMMERCIAL,5,GT,NG,GAS,18736200,181637,324561,85566,238995,313714,Mcf,18987,17225,WECC,LDWP,Los Angeles Department of Water and Power,California
+50003,Chalk Cliff Limited,CA,ELECTRIC POWER,3,GT,NG,GAS,20877000,15689,196177,161312,34865,188632,Mcf,11476,10411,WECC,CISO,California Independent System Operator,California
+50024,HGST San Jose Standby Generator,CA,INDUSTRIAL,6,GT,DFO,PET,428000,0,9118,9118,0,1640,Barrels,735,667,WECC,CISO,California Independent System Operator,California
+50049,Humboldt Sawmill Company,CA,INDUSTRIAL,7,ST,DFO,PET,830054,10,29682,29625,57,5396,Barrels,2394,2172,WECC,CISO,California Independent System Operator,California
+50061,San Diego State University,CA,COMMERCIAL,5,CA,NG,GAS,5351000,0,1373,1373,0,1510,Mcf,80,73,WECC,CISO,California Independent System Operator,California
+50061,San Diego State University,CA,COMMERCIAL,5,CT,NG,GAS,48526000,133325,638145,376722,261423,648607,Mcf,37331,33867,WECC,CISO,California Independent System Operator,California
+50064,Univ of Calif Santa Cruz Cogeneration,CA,COMMERCIAL,5,GT,NG,GAS,32254000,97952,378206,203294,174912,365064,Mcf,22125,20072,WECC,CISO,California Independent System Operator,California
+50066,Calistoga Power Plant,CA,ELECTRIC POWER,2,ST,GEO,GEO,468730000,0,1599307,4318410,0,0,,13592,12331,WECC,CISO,California Independent System Operator,California
+50089,Univ of San Francisco Cogen,CA,COMMERCIAL,5,IC,NG,GAS,4704000,11317,66118,39799,26319,62968,Mcf,3868,3509,WECC,CISO,California Independent System Operator,California
+50115,US Borax,CA,INDUSTRIAL,7,GT,NG,GAS,301656000,1874498,4035915,1502811,2533104,3880407,Mcf,236099,214188,WECC,CISO,California Independent System Operator,California
+50119,Phillips 66 Rodeo Refinery,CA,INDUSTRIAL,7,GT,NG,GAS,110417818,1242146,2098020,505525,1592495,2017960,Mcf,122733,111343,WECC,CISO,California Independent System Operator,California
+50134,Sycamore Cogeneration,CA,ELECTRIC POWER,3,GT,NG,GAS,1239201000,4286946,15622411,7827964,7794447,15167388,Mcf,913905,829089,WECC,CISO,California Independent System Operator,California
+50170,Berry Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,251702000,1414833,3321876,1271395,2050481,3207267,Mcf,194328,176294,WECC,CISO,California Independent System Operator,California
+50200,B Braun Medical,CA,INDUSTRIAL,7,GT,NG,GAS,34659000,269603,570378,173904,396474,552157,Mcf,33367,30270,WECC,CISO,California Independent System Operator,California
+50210,Vulcan-BN Geothermal Power Company,CA,ELECTRIC POWER,2,ST,GEO,GEO,250665000,0,855269,2309376,0,0,,7269,6594,WECC,IID,Imperial Irrigation District,California
+50216,Watson Cogeneration,CA,INDUSTRIAL,7,CA,NG,GAS,175452210,449928,1640651,914960,725691,1588885,Mcf,95977,87070,WECC,CISO,California Independent System Operator,California
+50216,Watson Cogeneration,CA,INDUSTRIAL,7,CA,WO,PET,426331,0,0,0,0,0,Barrels,0,0,WECC,CISO,California Independent System Operator,California
+50216,Watson Cogeneration,CA,INDUSTRIAL,7,CT,NG,GAS,2518179876,9579345,29359260,13908705,15450555,28416284,Mcf,1717505,1558110,WECC,CISO,California Independent System Operator,California
+50216,Watson Cogeneration,CA,INDUSTRIAL,7,CT,WO,PET,5541494,19475,64253,32842,31411,14751,Barrels,6746,6120,WECC,CISO,California Independent System Operator,California
+50224,Oxnard Wastewater Treatment Plant,CA,COMMERCIAL,5,IC,NG,GAS,1206490,2500,16142,10040,6102,16142,Mcf,944,857,WECC,CISO,California Independent System Operator,California
+50224,Oxnard Wastewater Treatment Plant,CA,COMMERCIAL,5,IC,PG,PET,188,0,3,2,1,1,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+50234,San Antonio Regional Hospital,CA,COMMERCIAL,5,IC,NG,GAS,13262340,0,166738,166738,0,161100,Mcf,9754,8849,WECC,CISO,California Independent System Operator,California
+50293,Wadham Energy LP,CA,ELECTRIC POWER,2,ST,NG,GAS,326551,0,4517,4517,0,4403,Mcf,264,240,WECC,CISO,California Independent System Operator,California
+50299,AltaGas Ripon Energy Inc.,CA,ELECTRIC POWER,2,GT,NG,GAS,19296000,0,192583,192583,0,184183,Mcf,11266,10220,WECC,CISO,California Independent System Operator,California
+50493,Double C Generation Limited Partnership,CA,ELECTRIC POWER,2,GT,NG,GAS,23639000,0,245222,245222,0,235790,Mcf,14345,13014,WECC,CISO,California Independent System Operator,California
+50494,Kern Front Limited,CA,ELECTRIC POWER,2,GT,NG,GAS,49290000,0,508891,508891,0,489319,Mcf,29770,27007,WECC,CISO,California Independent System Operator,California
+50495,High Sierra Limited,CA,ELECTRIC POWER,3,GT,NG,GAS,24537000,7211,252919,232888,20031,243192,Mcf,14796,13423,WECC,CISO,California Independent System Operator,California
+50530,Equilon Los Angeles Refining,CA,INDUSTRIAL,7,GT,NG,GAS,110912088,719758,1783731,622832,1160899,1726624,Mcf,104348,94663,WECC,LDWP,Los Angeles Department of Water and Power,California
+50530,Equilon Los Angeles Refining,CA,INDUSTRIAL,7,ST,NG,GAS,11082009,90850,209404,62872,146532,202572,Mcf,12250,11113,WECC,LDWP,Los Angeles Department of Water and Power,California
+50537,SRI International Cogen Project,CA,COMMERCIAL,5,GT,NG,GAS,29530000,153044,462217,188926,273291,445559,Mcf,27040,24530,WECC,CISO,California Independent System Operator,California
+50541,Harbor Cogen,CA,ELECTRIC POWER,2,CA,NG,GAS,95000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+50541,Harbor Cogen,CA,ELECTRIC POWER,2,CT,NG,GAS,1490000,0,18290,18290,0,17623,Mcf,1070,971,WECC,CISO,California Independent System Operator,California
+50610,Saint Johns Health Center,CA,COMMERCIAL,5,GT,NG,GAS,14000,43,201,107,94,200,Mcf,12,11,WECC,CISO,California Independent System Operator,California
+50612,McKittrick Limited,CA,ELECTRIC POWER,3,GT,NG,GAS,22591000,17856,214304,174625,39679,206062,Mcf,12537,11373,WECC,CISO,California Independent System Operator,California
+50622,Berry Cogen Tanne Hills 18,CA,INDUSTRIAL,7,GT,NG,GAS,80132000,642346,1660388,687134,973254,1602956,Mcf,97132,88118,WECC,CISO,California Independent System Operator,California
+50632,Covanta Stanislaus Energy,CA,ELECTRIC POWER,2,ST,MSW,MSW,152462852,0,2768762,2768762,0,262399,Tons,127239,115431,WECC,CISO,California Independent System Operator,California
+50632,Covanta Stanislaus Energy,CA,ELECTRIC POWER,2,ST,DFO,PET,938148,0,16980,16980,0,2850,Barrels,1369,1242,WECC,CISO,California Independent System Operator,California
+50674,Municipal Cogen Plant,CA,COMMERCIAL,4,IC,NG,GAS,2142000,0,22542,22542,0,21863,Mcf,1319,1196,WECC,CISO,California Independent System Operator,California
+50696,Plant No 1 Orange County,CA,COMMERCIAL,5,IC,NG,GAS,3349151,1008,38221,35259,2962,37000,Mcf,2236,2028,WECC,CISO,California Independent System Operator,California
+50748,Agnews Power Plant,CA,ELECTRIC POWER,2,CA,NG,GAS,5150000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+50748,Agnews Power Plant,CA,ELECTRIC POWER,2,CT,NG,GAS,15748000,0,177049,177049,0,172060,Mcf,10357,9396,WECC,CISO,California Independent System Operator,California
+50750,Coalinga Cogeneration Facility,CA,INDUSTRIAL,7,GT,NG,GAS,53888000,386089,778503,256761,521742,756563,Mcf,45542,41316,WECC,CISO,California Independent System Operator,California
+50751,Southeast Kern River Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,125356000,595925,1529357,652996,876361,1476219,Mcf,89467,81164,WECC,CISO,California Independent System Operator,California
+50752,South Belridge Cogeneration Facility,CA,INDUSTRIAL,7,GT,NG,GAS,450628000,1553069,5302904,2670584,2632320,5148449,Mcf,310218,281428,WECC,CISO,California Independent System Operator,California
+50762,Ormesa IH,CA,ELECTRIC POWER,2,ST,GEO,GEO,27243000,0,92953,250989,0,0,,790,717,WECC,IID,Imperial Irrigation District,California
+50766,Ormesa I,CA,ELECTRIC POWER,2,ST,GEO,GEO,64101000,0,218713,590562,0,0,,1859,1686,WECC,IID,Imperial Irrigation District,California
+50837,Southeast Resource Recovery,CA,ELECTRIC POWER,3,ST,NG,GAS,16476559,6431,352458,321825,30633,338904,Mcf,20619,18705,WECC,CISO,California Independent System Operator,California
+50837,Southeast Resource Recovery,CA,ELECTRIC POWER,3,ST,MSW,MSW,167904441,48298,3442838,3212847,229991,395458,Tons,158217,143533,WECC,CISO,California Independent System Operator,California
+50849,PE Berkeley,CA,COMMERCIAL,5,CA,NG,GAS,11531077,141134,296569,72549,224020,284829,Mcf,17349,15739,WECC,CISO,California Independent System Operator,California
+50849,PE Berkeley,CA,COMMERCIAL,5,CA,DFO,PET,183,0,0,0,0,0,Barrels,0,0,WECC,CISO,California Independent System Operator,California
+50849,PE Berkeley,CA,COMMERCIAL,5,CT,NG,GAS,174924206,569323,1879798,976110,903688,1804029,Mcf,109967,99762,WECC,CISO,California Independent System Operator,California
+50849,PE Berkeley,CA,COMMERCIAL,5,CT,DFO,PET,2794,8,29,16,13,5,Barrels,2,2,WECC,CISO,California Independent System Operator,California
+50850,OLS Energy Chino,CA,ELECTRIC POWER,3,CA,NG,GAS,48112000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+50850,OLS Energy Chino,CA,ELECTRIC POWER,3,CT,NG,GAS,160783000,265691,1955623,1434662,520961,1884030,Mcf,114403,103786,WECC,CISO,California Independent System Operator,California
+50851,CSUCI Site Authority,CA,ELECTRIC POWER,3,CA,NG,GAS,40402000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+50851,CSUCI Site Authority,CA,ELECTRIC POWER,3,CT,NG,GAS,134038000,115277,1511922,1271758,240164,1463180,Mcf,88447,80238,WECC,CISO,California Independent System Operator,California
+50865,Salinas River Cogeneration,CA,ELECTRIC POWER,3,GT,NG,GAS,93679000,277529,1231588,665201,566387,1172940,Mcf,72047,65361,WECC,CISO,California Independent System Operator,California
+50876,Wheelabrator Norwalk Energy,CA,ELECTRIC POWER,3,CA,NG,GAS,5368000,8296,63231,44380,18851,63231,Mcf,3699,3356,WECC,CISO,California Independent System Operator,California
+50876,Wheelabrator Norwalk Energy,CA,ELECTRIC POWER,3,CT,NG,GAS,29537000,45643,347940,244208,103732,347940,Mcf,20354,18465,WECC,CISO,California Independent System Operator,California
+50963,Naval Hospital Medical Center,CA,COMMERCIAL,5,GT,NG,GAS,29911000,85178,417008,231837,185171,408711,Mcf,24395,22131,WECC,CISO,California Independent System Operator,California
+50985,Solano County Cogen Plant,CA,COMMERCIAL,5,IC,NG,GAS,8082000,34493,132813,66480,66333,130210,Mcf,7770,7048,WECC,CISO,California Independent System Operator,California
+52073,UCLA So Campus Cogen Project,CA,COMMERCIAL,5,CA,NG,GAS,35103841,807667,1271786,165393,1106393,1224692,Mcf,74399,67494,WECC,LDWP,Los Angeles Department of Water and Power,California
+52073,UCLA So Campus Cogen Project,CA,COMMERCIAL,5,CT,NG,GAS,220208128,1033567,2455362,1039518,1415844,2364297,Mcf,143638,130307,WECC,LDWP,Los Angeles Department of Water and Power,California
+52076,McKittrick Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,76692000,11558,954718,916190,38528,922433,Mcf,55851,50667,WECC,CISO,California Independent System Operator,California
+52077,Lost Hills Cogeneration Plant,CA,INDUSTRIAL,7,GT,NG,GAS,38690000,152975,670625,314871,355754,651724,Mcf,39231,35590,WECC,CISO,California Independent System Operator,California
+52081,Cymric 31X Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,45069000,402921,681458,190094,491364,653365,Mcf,39865,36165,WECC,CISO,California Independent System Operator,California
+52082,Cymric 6Z Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,43267000,413124,658204,177828,480376,631674,Mcf,38505,34931,WECC,CISO,California Independent System Operator,California
+52085,Taft 26C Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,77167000,762620,1211295,324529,886766,1165705,Mcf,70860,64284,WECC,CISO,California Independent System Operator,California
+52086,Coalinga 25D Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,74815000,749494,1177202,305697,871505,1136295,Mcf,68866,62475,WECC,CISO,California Independent System Operator,California
+52096,Berry Placerita Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,292164000,1368133,3787565,1714638,2072927,3656222,Mcf,221571,201008,WECC,CISO,California Independent System Operator,California
+52099,Plant No 2 Orange County,CA,COMMERCIAL,5,IC,NG,GAS,3757182,0,43,43,0,43,Mcf,3,2,WECC,CISO,California Independent System Operator,California
+52099,Plant No 2 Orange County,CA,COMMERCIAL,5,ST,NG,GAS,93000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+52104,Cymric 36W Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,75190000,802054,1308340,342011,966329,1254401,Mcf,76537,69434,WECC,CISO,California Independent System Operator,California
+52107,Kern River Eastridge Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,218552000,1493231,2600324,883967,1716357,2510548,Mcf,152118,138000,WECC,CISO,California Independent System Operator,California
+52109,Richmond Cogen,CA,INDUSTRIAL,7,CA,NG,GAS,74662588,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+52109,Richmond Cogen,CA,INDUSTRIAL,7,CT,NG,GAS,742640000,4038276,8591875,3544031,5047844,8246632,Mcf,502621,455975,WECC,CISO,California Independent System Operator,California
+52115,Ingredion Stockton,CA,INDUSTRIAL,7,GT,NG,GAS,55860000,388486,774672,256694,517978,752107,Mcf,45318,41112,WECC,CISO,California Independent System Operator,California
+52147,C P Kelco San Diego Plant,CA,INDUSTRIAL,7,GT,NG,GAS,82026620,377439,1064893,456123,608770,1036726,Mcf,62296,56514,WECC,CISO,California Independent System Operator,California
+52158,Aidlin Geothermal Power Plant,CA,ELECTRIC POWER,2,ST,GEO,GEO,115589000,0,394390,1064922,0,0,,3352,3041,WECC,CISO,California Independent System Operator,California
+52169,Midway Sunset Cogen,CA,ELECTRIC POWER,3,GT,NG,GAS,826514000,5093140,9956553,3590128,6366425,9611357,Mcf,582454,528399,WECC,CISO,California Independent System Operator,California
+52186,Yuba City Cogen Partners,CA,ELECTRIC POWER,3,GT,NG,GAS,28267000,26629,291451,229525,61926,280510,Mcf,17050,15467,WECC,CISO,California Independent System Operator,California
+54038,Geo East Mesa II,CA,ELECTRIC POWER,2,ST,GEO,GEO,57691000,0,196842,531506,0,0,,1673,1518,WECC,IID,Imperial Irrigation District,California
+54111,Second Imperial Geothermal,CA,ELECTRIC POWER,2,BT,GEO,GEO,144302000,0,492358,1329454,0,0,,4184,3796,WECC,IID,Imperial Irrigation District,California
+54238,Stockton Biomass,CA,ELECTRIC POWER,3,ST,NG,GAS,1208785,5781,23155,10019,13136,22219,Mcf,1355,1229,WECC,CISO,California Independent System Operator,California
+54296,Biola University,CA,COMMERCIAL,5,IC,NG,GAS,14800000,75755,168335,67330,101005,162717,Mcf,9848,8934,WECC,CISO,California Independent System Operator,California
+54337,NRG Energy San Diego,CA,ELECTRIC POWER,3,IC,NG,GAS,1764000,6979,23767,11309,12458,22854,Mcf,1390,1261,WECC,CISO,California Independent System Operator,California
+54410,Western Power & Steam Inc,CA,INDUSTRIAL,7,GT,NG,GAS,160752000,256619,1916019,1319231,596788,1848404,Mcf,112086,101684,WECC,CISO,California Independent System Operator,California
+54447,Welport Lease Project,CA,INDUSTRIAL,7,GT,NG,GAS,30537000,149647,526381,220979,305402,506135,Mcf,30793,27935,WECC,CISO,California Independent System Operator,California
+54449,Dome Project,CA,INDUSTRIAL,7,GT,NG,GAS,48054000,274557,990931,380803,610128,952820,Mcf,57969,52589,WECC,CISO,California Independent System Operator,California
+54451,Los Angeles Refinery Wilmington,CA,INDUSTRIAL,7,GT,NG,GAS,120428224,697309,1520344,565127,955217,1470197,Mcf,88940,80685,WECC,LDWP,Los Angeles Department of Water and Power,California
+54477,Oroville Cogeneration LP,CA,INDUSTRIAL,7,IC,NG,GAS,413000,3164,6824,2102,4722,6625,Mcf,399,362,WECC,CISO,California Independent System Operator,California
+54561,Graphic Packaging International,CA,ELECTRIC POWER,3,CA,NG,GAS,15678160,0,1,1,0,1,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+54561,Graphic Packaging International,CA,ELECTRIC POWER,3,CT,NG,GAS,164609900,237744,1883696,1366861,516835,1850108,Mcf,110195,99969,WECC,CISO,California Independent System Operator,California
+54626,Mt Poso Cogeneration,CA,ELECTRIC POWER,3,ST,NG,GAS,6889861,1675,118233,111537,6696,115124,Mcf,6917,6275,WECC,CISO,California Independent System Operator,California
+54689,Heber Geothermal,CA,ELECTRIC POWER,2,BT,GEO,GEO,33357000,0,113814,307319,0,0,,967,878,WECC,IID,Imperial Irrigation District,California
+54689,Heber Geothermal,CA,ELECTRIC POWER,2,ST,GEO,GEO,277361000,0,946356,2555326,0,0,,8043,7296,WECC,IID,Imperial Irrigation District,California
+54724,Ormesa II,CA,ELECTRIC POWER,2,ST,GEO,GEO,67306000,0,229648,620090,0,0,,1952,1771,WECC,IID,Imperial Irrigation District,California
+54749,Goal Line LP,CA,ELECTRIC POWER,3,CA,NG,GAS,3894000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+54749,Goal Line LP,CA,ELECTRIC POWER,3,CT,NG,GAS,18417000,15153,205860,172921,32939,198133,Mcf,12043,10925,WECC,CISO,California Independent System Operator,California
+54768,Live Oak Limited,CA,ELECTRIC POWER,3,GT,NG,GAS,24019000,18344,226340,185575,40765,217634,Mcf,13241,12012,WECC,CISO,California Independent System Operator,California
+54800,Saint Agnes Medical Center,CA,COMMERCIAL,5,GT,NG,GAS,28077680,273524,433503,115451,318052,417934,Mcf,25360,23006,WECC,CISO,California Independent System Operator,California
+54912,Martinez Refining,CA,INDUSTRIAL,7,CA,NG,GAS,105521489,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+54912,Martinez Refining,CA,INDUSTRIAL,7,CT,NG,GAS,646262000,1535150,7971016,5018806,2952210,7714772,Mcf,466301,423026,WECC,CISO,California Independent System Operator,California
+54936,Richard J Donovan Correctional Facility,CA,COMMERCIAL,5,GT,NG,GAS,8686000,94481,159123,37996,121127,153889,Mcf,9309,8445,WECC,CISO,California Independent System Operator,California
+54951,Monterey Regional Water Cogen Facility,CA,COMMERCIAL,5,IC,NG,GAS,3172924,13554,39322,17461,21861,39322,Mcf,2300,2087,WECC,CISO,California Independent System Operator,California
+54996,Salton Sea Power Gen Co - Unit 4,CA,ELECTRIC POWER,2,ST,GEO,GEO,313497000,0,1069652,2888246,0,0,,9091,8247,WECC,IID,Imperial Irrigation District,California
+55084,Crockett Cogen Project,CA,ELECTRIC POWER,3,CS,NG,GAS,1384310000,2299045,12549348,8515935,4033413,12042294,Mcf,734132,666000,WECC,CISO,California Independent System Operator,California
+55151,La Paloma Generating Plant,CA,ELECTRIC POWER,2,CS,NG,GAS,2969290000,0,21952135,21952135,0,21195678,Mcf,1284191,1165010,WECC,CISO,California Independent System Operator,California
+55182,Sunrise Power LLC,CA,ELECTRIC POWER,2,CA,NG,GAS,1191666000,0,1495987,1495987,0,1443710,Mcf,87515,79393,WECC,CISO,California Independent System Operator,California
+55182,Sunrise Power LLC,CA,ELECTRIC POWER,2,CT,NG,GAS,1728354000,0,19315429,19315429,0,18641985,Mcf,1129945,1025079,WECC,CISO,California Independent System Operator,California
+55184,Aera San Ardo Cogen Facility,CA,INDUSTRIAL,7,GT,NG,GAS,47553000,301759,707264,256874,450390,685997,Mcf,41375,37535,WECC,CISO,California Independent System Operator,California
+55217,Los Medanos Energy Center,CA,ELECTRIC POWER,3,CA,NG,GAS,1109375000,0,644680,644680,0,620580,Mcf,37714,34213,WECC,CISO,California Independent System Operator,California
+55217,Los Medanos Energy Center,CA,ELECTRIC POWER,3,CT,NG,GAS,2096187000,1304076,23272575,20764735,2507840,22433258,Mcf,1361436,1235087,WECC,CISO,California Independent System Operator,California
+55295,Blythe Energy Inc,CA,ELECTRIC POWER,2,CA,NG,GAS,623393000,0,6434,6434,0,6231,Mcf,376,341,WECC,CISO,California Independent System Operator,California
+55295,Blythe Energy Inc,CA,ELECTRIC POWER,2,CT,NG,GAS,1115611000,0,12794073,12794073,0,12339269,Mcf,748448,678988,WECC,CISO,California Independent System Operator,California
+55333,Delta Energy Center,CA,ELECTRIC POWER,2,CA,NG,GAS,134974000,0,24902,24902,0,24177,Mcf,1457,1322,WECC,CISO,California Independent System Operator,California
+55333,Delta Energy Center,CA,ELECTRIC POWER,2,CT,NG,GAS,340918000,0,3988129,3988129,0,3876929,Mcf,233304,211652,WECC,CISO,California Independent System Operator,California
+55345,Otay Mesa Generating Project,CA,ELECTRIC POWER,2,CA,NG,GAS,837347000,0,670839,670839,0,645517,Mcf,39244,35602,WECC,CISO,California Independent System Operator,California
+55345,Otay Mesa Generating Project,CA,ELECTRIC POWER,2,CT,NG,GAS,1314350000,0,15019451,15019451,0,14449741,Mcf,878632,797089,WECC,CISO,California Independent System Operator,California
+55393,Metcalf Energy Center,CA,ELECTRIC POWER,2,CA,NG,GAS,788894000,0,366774,366774,0,352028,Mcf,21456,19465,WECC,CISO,California Independent System Operator,California
+55393,Metcalf Energy Center,CA,ELECTRIC POWER,2,CT,NG,GAS,1292928000,0,15664407,15664407,0,15066611,Mcf,916361,831318,WECC,CISO,California Independent System Operator,California
+55400,Elk Hills Power LLC,CA,ELECTRIC POWER,3,CA,NG,GAS,1375419000,0,598127,598127,0,597475,Mcf,34990,31743,WECC,CISO,California Independent System Operator,California
+55400,Elk Hills Power LLC,CA,ELECTRIC POWER,3,CT,NG,GAS,2430525000,1279045,26478969,24110365,2368604,26654592,Mcf,1549009,1405252,WECC,CISO,California Independent System Operator,California
+55499,CalPeak Power Vaca Dixon Peaker Plant,CA,ELECTRIC POWER,2,GT,NG,GAS,9340000,0,104125,104125,0,100025,Mcf,6091,5526,WECC,CISO,California Independent System Operator,California
+55508,CalPeak Power Panoche Peaker Plant,CA,ELECTRIC POWER,2,GT,NG,GAS,15571000,0,171513,171513,0,165076,Mcf,10033,9102,WECC,CISO,California Independent System Operator,California
+55510,CalPeak Power Border Peaker Plant,CA,ELECTRIC POWER,2,GT,NG,GAS,12331000,0,139217,139217,0,133992,Mcf,8144,7388,WECC,CISO,California Independent System Operator,California
+55512,Cuyamaca Peak Energy Plant,CA,ELECTRIC POWER,1,GT,NG,GAS,8538000,0,99227,99227,0,95411,Mcf,5805,5266,WECC,CISO,California Independent System Operator,California
+55513,CalPeak Power Enterprise Peaker Plant,CA,ELECTRIC POWER,2,GT,NG,GAS,11959000,0,134300,134300,0,129385,Mcf,7856,7127,WECC,CISO,California Independent System Operator,California
+55518,High Desert Power Plant,CA,ELECTRIC POWER,2,CA,NG,GAS,766015000,0,272780,272780,0,265105,Mcf,15958,14477,WECC,CISO,California Independent System Operator,California
+55518,High Desert Power Plant,CA,ELECTRIC POWER,2,CT,NG,GAS,1401986000,0,16165985,16165985,0,15710321,Mcf,945704,857937,WECC,CISO,California Independent System Operator,California
+55538,Escondido Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,43735000,0,461892,461892,0,444553,Mcf,27020,24513,WECC,CISO,California Independent System Operator,California
+55540,Chula Vista Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,3187000,0,52659,52659,0,50681,Mcf,3081,2795,WECC,CISO,California Independent System Operator,California
+55541,Indigo Energy Facility,CA,ELECTRIC POWER,2,GT,NG,GAS,69697000,0,743308,743308,0,714720,Mcf,43483,39448,WECC,CISO,California Independent System Operator,California
+55542,Larkspur Energy Facility,CA,ELECTRIC POWER,2,GT,NG,GAS,50106000,0,510855,510855,0,491681,Mcf,29885,27111,WECC,CISO,California Independent System Operator,California
+55625,Creed Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,13264000,0,162332,162332,0,157299,Mcf,9496,8615,WECC,CISO,California Independent System Operator,California
+55626,Lambie Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,14022000,0,173705,173705,0,168319,Mcf,10162,9219,WECC,CISO,California Independent System Operator,California
+55627,Goose Haven Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,14894000,0,180199,180199,0,174611,Mcf,10542,9563,WECC,CISO,California Independent System Operator,California
+55656,"Pastoria Energy Facility, LLC",CA,ELECTRIC POWER,2,CA,NG,GAS,1348354000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+55656,"Pastoria Energy Facility, LLC",CA,ELECTRIC POWER,2,CT,NG,GAS,2527487000,0,27508253,27508253,0,26546256,Mcf,1609222,1459876,WECC,CISO,California Independent System Operator,California
+55698,Hanford Energy Park Peaker,CA,ELECTRIC POWER,2,GT,NG,GAS,19577000,0,226244,226244,0,220017,Mcf,13235,12007,WECC,CISO,California Independent System Operator,California
+55748,Los Esteros Critical Energy Center,CA,ELECTRIC POWER,2,CA,NG,GAS,64339000,0,226004,226004,0,216718,Mcf,13221,11994,WECC,CISO,California Independent System Operator,California
+55748,Los Esteros Critical Energy Center,CA,ELECTRIC POWER,2,CT,NG,GAS,161168000,0,1692991,1692991,0,1624472,Mcf,99039,89848,WECC,CISO,California Independent System Operator,California
+55807,Henrietta Peaker,CA,ELECTRIC POWER,2,GT,NG,GAS,38508000,0,423783,423783,0,408966,Mcf,24791,22490,WECC,CISO,California Independent System Operator,California
+55810,Gilroy Peaking Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,29699000,0,361323,361323,0,348095,Mcf,21137,19176,WECC,CISO,California Independent System Operator,California
+55811,King City Peaking,CA,ELECTRIC POWER,2,GT,NG,GAS,7789000,0,91339,91339,0,88080,Mcf,5343,4847,WECC,CISO,California Independent System Operator,California
+55813,Yuba City Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,37502000,0,434181,434181,0,457032,Mcf,25399,23042,WECC,CISO,California Independent System Operator,California
+55847,Feather River Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,24505000,0,290604,290604,0,294431,Mcf,17000,15422,WECC,CISO,California Independent System Operator,California
+55851,Valero Refinery Cogeneration Unit 1,CA,INDUSTRIAL,7,GT,NG,GAS,297915577,1280478,2988596,1346958,1641638,2868310,Mcf,174832,158606,WECC,CISO,California Independent System Operator,California
+55853,Inland Empire Energy Center,CA,ELECTRIC POWER,2,CS,NG,GAS,381176000,0,2676811,2676811,0,2578794,Mcf,156592,142060,WECC,CISO,California Independent System Operator,California
+55855,Wolfskill Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,15432000,0,184764,184764,0,178687,Mcf,10809,9806,WECC,CISO,California Independent System Operator,California
+55874,Panoche Peaker,CA,ELECTRIC POWER,2,GT,NG,GAS,13245000,0,209577,209577,0,202295,Mcf,12260,11122,WECC,CISO,California Independent System Operator,California
+55933,Tracy Combined Cycle Power Plant,CA,ELECTRIC POWER,2,CA,NG,GAS,344680000,0,373878,373878,0,358384,Mcf,21872,19842,WECC,CISO,California Independent System Operator,California
+55933,Tracy Combined Cycle Power Plant,CA,ELECTRIC POWER,2,CT,NG,GAS,534654000,0,6789915,6789915,0,6517901,Mcf,397207,360344,WECC,CISO,California Independent System Operator,California
+55934,Century Generating Facility,CA,ELECTRIC POWER,2,GT,NG,GAS,1515000,0,23535,23535,0,22872,Mcf,1377,1249,WECC,CISO,California Independent System Operator,California
+55935,Drews Generating Facility,CA,ELECTRIC POWER,2,GT,NG,GAS,1276000,0,22551,22551,0,22001,Mcf,1319,1197,WECC,CISO,California Independent System Operator,California
+55950,Elk Hills Cogen,CA,INDUSTRIAL,7,GT,NG,GAS,10977000,16606,138750,98249,40501,123634,Mcf,8117,7364,WECC,CISO,California Independent System Operator,California
+55951,Agua Mansa Power Plant,CA,ELECTRIC POWER,1,GT,NG,GAS,11648000,0,126550,126550,0,121919,Mcf,7403,6716,WECC,CISO,California Independent System Operator,California
+55963,Riverview Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,20012000,0,239416,239416,0,230651,Mcf,14006,12706,WECC,CISO,California Independent System Operator,California
+55970,Cosumnes,CA,ELECTRIC POWER,1,CA,NG,GAS,1122042053,0,0,0,0,0,Mcf,0,0,WECC,BANC,Balancing Authority of Northern California,California
+55970,Cosumnes,CA,ELECTRIC POWER,1,CT,NG,GAS,2013235078,0,21556030,21556030,0,21133363,Mcf,1261019,1143989,WECC,BANC,Balancing Authority of Northern California,California
+55983,Salton Sea Power LLC - Unit 5,CA,ELECTRIC POWER,2,ST,GEO,GEO,338028000,0,1153352,3114253,0,0,,9802,8892,WECC,IID,Imperial Irrigation District,California
+55984,CE Turbo LLC,CA,ELECTRIC POWER,2,ST,GEO,GEO,73259000,0,249960,674935,0,0,,2124,1927,WECC,IID,Imperial Irrigation District,California
+55985,Palomar Energy,CA,ELECTRIC POWER,1,CA,NG,GAS,978032000,0,543599,543599,0,522996,Mcf,31800,28849,WECC,CISO,California Independent System Operator,California
+55985,Palomar Energy,CA,ELECTRIC POWER,1,CT,NG,GAS,1539105000,0,17377254,17377254,0,16710118,Mcf,1016562,922219,WECC,CISO,California Independent System Operator,California
+56026,Donald Von Raesfeld Power Plant,CA,ELECTRIC POWER,1,CA,NG,GAS,142859000,0,19011,19011,0,18434,Mcf,1112,1009,WECC,CISO,California Independent System Operator,California
+56026,Donald Von Raesfeld Power Plant,CA,ELECTRIC POWER,1,CT,NG,GAS,499761000,0,5365170,5365170,0,5243707,Mcf,313860,284732,WECC,CISO,California Independent System Operator,California
+56036,WWTP Power Generation Station,CA,COMMERCIAL,5,IC,DFO,PET,300403,1347,3773,1732,2041,655,Barrels,304,276,WECC,CISO,California Independent System Operator,California
+56039,H. Gonzales,CA,ELECTRIC POWER,1,GT,NG,GAS,2219700,0,30696,30696,0,29686,Mcf,1796,1629,WECC,CISO,California Independent System Operator,California
+56041,Malburg,CA,ELECTRIC POWER,2,CA,NG,GAS,238004000,0,27400,27400,0,26765,Mcf,1603,1454,WECC,CISO,California Independent System Operator,California
+56041,Malburg,CA,ELECTRIC POWER,2,CT,NG,GAS,456034000,0,5575005,5575005,0,5442490,Mcf,326136,295868,WECC,CISO,California Independent System Operator,California
+56046,Magnolia Power Project,CA,ELECTRIC POWER,1,CA,NG,GAS,554593000,0,6336,6336,0,6102,Mcf,371,336,WECC,LDWP,Los Angeles Department of Water and Power,California
+56046,Magnolia Power Project,CA,ELECTRIC POWER,1,CT,NG,GAS,875144000,0,10346913,10346913,0,10016453,Mcf,605290,549116,WECC,LDWP,Los Angeles Department of Water and Power,California
+56051,THUMS,CA,INDUSTRIAL,6,GT,NG,GAS,368895000,0,3844561,3844561,0,3615980,Mcf,224905,204033,WECC,CISO,California Independent System Operator,California
+56078,Walnut Energy Center,CA,ELECTRIC POWER,1,CA,NG,GAS,459345000,0,0,0,0,0,Mcf,0,0,WECC,TIDC,Turlock Irrigation District,California
+56078,Walnut Energy Center,CA,ELECTRIC POWER,1,CT,NG,GAS,664888000,0,8828689,8828689,0,8478009,Mcf,516475,468543,WECC,TIDC,Turlock Irrigation District,California
+56080,SJ/SC WPCP,CA,COMMERCIAL,5,IC,NG,GAS,13667481,91572,336608,118579,218029,330008,Mcf,19691,17864,WECC,CISO,California Independent System Operator,California
+56080,SJ/SC WPCP,CA,COMMERCIAL,5,IC,DFO,PET,20949,181,613,181,432,109,Barrels,49,45,WECC,CISO,California Independent System Operator,California
+56134,Regional Wastewater Control Facility,CA,COMMERCIAL,5,IC,NG,GAS,445313,0,4502,4502,0,4502,Mcf,263,239,WECC,CISO,California Independent System Operator,California
+56134,Regional Wastewater Control Facility,CA,COMMERCIAL,5,IC,DFO,PET,43601,0,442,442,0,76,Barrels,36,32,WECC,CISO,California Independent System Operator,California
+56135,Ripon Generation Station,CA,ELECTRIC POWER,1,GT,NG,GAS,84872000,0,927359,927359,0,884884,Mcf,54250,49215,WECC,BANC,Balancing Authority of Northern California,California
+56143,Riverside Energy Resource Center,CA,ELECTRIC POWER,1,GT,NG,GAS,94539000,0,987938,987938,0,949029,Mcf,57794,52430,WECC,CISO,California Independent System Operator,California
+56144,Springs Generating Station,CA,ELECTRIC POWER,1,GT,NG,GAS,701000,0,9838,9838,0,9470,Mcf,576,522,WECC,CISO,California Independent System Operator,California
+56184,Red Bluff,CA,ELECTRIC POWER,2,IC,NG,GAS,20188000,0,205784,205784,0,201750,Mcf,12038,10921,WECC,CISO,California Independent System Operator,California
+56185,Chowchilla II,CA,ELECTRIC POWER,2,IC,NG,GAS,23155000,0,239707,239707,0,235007,Mcf,14023,12721,WECC,CISO,California Independent System Operator,California
+56232,Miramar Energy Facility,CA,ELECTRIC POWER,1,GT,NG,GAS,112096000,0,1133219,1133219,0,1089749,Mcf,66293,60140,WECC,CISO,California Independent System Operator,California
+56239,Malaga Power LLC,CA,ELECTRIC POWER,2,GT,NG,GAS,20495000,0,217999,217999,0,209619,Mcf,12753,11569,WECC,CISO,California Independent System Operator,California
+56284,Santa Maria EPG,CA,INDUSTRIAL,6,ST,NG,GAS,1454965,0,30015,30015,0,28723,Mcf,1756,1593,WECC,CISO,California Independent System Operator,California
+56298,Roseville Energy Park,CA,ELECTRIC POWER,1,CA,NG,GAS,941000,0,2749,2749,0,2631,Mcf,161,146,WECC,BANC,Balancing Authority of Northern California,California
+56298,Roseville Energy Park,CA,ELECTRIC POWER,1,CT,NG,GAS,23982000,0,313658,313658,0,300395,Mcf,18349,16646,WECC,BANC,Balancing Authority of Northern California,California
+56346,Bear Valley Power Plant,CA,ELECTRIC POWER,1,IC,NG,GAS,174000,0,7656,7656,0,7448,Mcf,448,406,WECC,CISO,California Independent System Operator,California
+56356,Clearwater Power Plant,CA,ELECTRIC POWER,1,CA,NG,GAS,6054000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+56356,Clearwater Power Plant,CA,ELECTRIC POWER,1,CT,NG,GAS,19854000,17304,229790,192171,37619,221164,Mcf,13443,12195,WECC,CISO,California Independent System Operator,California
+56467,Russell City Energy Center,CA,ELECTRIC POWER,2,CA,NG,GAS,279630000,0,160077,160077,0,153751,Mcf,9364,8495,WECC,CISO,California Independent System Operator,California
+56467,Russell City Energy Center,CA,ELECTRIC POWER,2,CT,NG,GAS,507035000,0,5823046,5823046,0,5594052,Mcf,340646,309032,WECC,CISO,California Independent System Operator,California
+56471,McGrath Peaker,CA,ELECTRIC POWER,1,GT,NG,GAS,45188000,0,434963,434963,0,416629,Mcf,25445,23084,WECC,CISO,California Independent System Operator,California
+56472,Grapeland Peaker,CA,ELECTRIC POWER,1,GT,NG,GAS,22900000,0,254104,254104,0,245749,Mcf,14865,13485,WECC,CISO,California Independent System Operator,California
+56473,Mira Loma Peaker,CA,ELECTRIC POWER,1,GT,NG,GAS,24404000,0,248801,248801,0,240853,Mcf,14555,13204,WECC,CISO,California Independent System Operator,California
+56474,Barre Peaker,CA,ELECTRIC POWER,1,GT,NG,GAS,33132000,0,336913,336913,0,326783,Mcf,19709,17880,WECC,CISO,California Independent System Operator,California
+56475,Center Peaker,CA,ELECTRIC POWER,1,GT,NG,GAS,22699000,0,247196,247196,0,239298,Mcf,14461,13119,WECC,CISO,California Independent System Operator,California
+56476,Gateway Generating Station,CA,ELECTRIC POWER,1,CA,NG,GAS,1052408000,0,1209880,1209880,0,1159827,Mcf,70777,64209,WECC,CISO,California Independent System Operator,California
+56476,Gateway Generating Station,CA,ELECTRIC POWER,1,CT,NG,GAS,1727390000,0,19144164,19144164,0,18381737,Mcf,1119926,1015990,WECC,CISO,California Independent System Operator,California
+56532,Colusa Generating Station,CA,ELECTRIC POWER,1,CA,NG,GAS,1044875000,0,1649342,1649342,0,1585812,Mcf,96486,87531,WECC,CISO,California Independent System Operator,California
+56532,Colusa Generating Station,CA,ELECTRIC POWER,1,CT,NG,GAS,1445750000,0,16603960,16603960,0,15978002,Mcf,971325,881180,WECC,CISO,California Independent System Operator,California
+56569,Niland Gas Turbine Plant,CA,ELECTRIC POWER,1,GT,NG,GAS,73924000,0,706038,706038,0,678883,Mcf,41303,37470,WECC,IID,Imperial Irrigation District,California
+56639,Midway Peaking LLC,CA,ELECTRIC POWER,2,GT,NG,GAS,66714000,0,726750,726750,0,699471,Mcf,42515,38569,WECC,CISO,California Independent System Operator,California
+56706,Ampersand Chowchilla Biomass LLC,CA,ELECTRIC POWER,2,ST,NG,GAS,117453,0,2243,2243,0,2175,Mcf,131,119,WECC,CISO,California Independent System Operator,California
+56707,El Nido Facility,CA,ELECTRIC POWER,2,ST,PG,PET,84242,0,1799,1799,0,690,Mcf,125,113,WECC,CISO,California Independent System Operator,California
+56803,Panoche Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,530573000,0,5056135,5056135,0,4856400,Mcf,295782,268332,WECC,CISO,California Independent System Operator,California
+56832,North Brawley Geothermal Plant,CA,ELECTRIC POWER,2,BT,GEO,GEO,54116000,0,184644,498570,0,0,,1569,1424,WECC,IID,Imperial Irrigation District,California
+56914,Orange Grove Peaking Facility,CA,ELECTRIC POWER,2,GT,NG,GAS,43301000,0,472615,472615,0,454000,Mcf,27648,25082,WECC,CISO,California Independent System Operator,California
+57001,El Cajon Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,13393000,0,151456,151456,0,145772,Mcf,8860,8038,WECC,CISO,California Independent System Operator,California
+57027,Canyon Power Plant,CA,ELECTRIC POWER,1,GT,NG,GAS,159297000,0,1707791,1707791,0,1657336,Mcf,99905,90633,WECC,CISO,California Independent System Operator,California
+57042,CSU East Bay,CA,ELECTRIC POWER,1,FC,NG,GAS,4199000,12055,49777,27031,22746,47908,Mcf,2912,2642,WECC,CISO,California Independent System Operator,California
+57043,SF State University,CA,ELECTRIC POWER,1,FC,NG,GAS,1574000,3065,14061,8953,5108,13572,Mcf,823,746,WECC,CISO,California Independent System Operator,California
+57073,Ivanpah 2,CA,ELECTRIC POWER,2,ST,NG,GAS,9974000,0,402165,402165,0,387462,Mcf,23526,21343,WECC,CISO,California Independent System Operator,California
+57074,Ivanpah 1,CA,ELECTRIC POWER,2,ST,NG,GAS,11390000,0,414224,414224,0,399167,Mcf,24232,21983,WECC,CISO,California Independent System Operator,California
+57075,Ivanpah 3,CA,ELECTRIC POWER,2,ST,NG,GAS,11875000,0,401523,401523,0,386760,Mcf,23489,21309,WECC,CISO,California Independent System Operator,California
+57122,UCI Facilities Management Central Plant,CA,COMMERCIAL,5,CA,NG,GAS,9531000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+57122,UCI Facilities Management Central Plant,CA,COMMERCIAL,5,CT,NG,GAS,99831000,495503,1357262,583038,774224,1233874,Mcf,79399,72031,WECC,CISO,California Independent System Operator,California
+57267,Marsh Landing Generating Station,CA,ELECTRIC POWER,2,GT,NG,GAS,170579000,0,2012471,2012471,0,1931148,Mcf,117729,106803,WECC,CISO,California Independent System Operator,California
+57460,Caltech Central,CA,ELECTRIC POWER,2,FC,NG,GAS,8473000,0,52622,52622,0,54081,Mcf,3078,2793,WECC,CISO,California Independent System Operator,California
+57475,John L. Featherstone Plant,CA,ELECTRIC POWER,2,ST,GEO,GEO,424265000,0,1447592,3908752,0,0,,12303,11161,WECC,IID,Imperial Irrigation District,California
+57482,"Sentinel Energy Center, LLC",CA,ELECTRIC POWER,2,GT,NG,GAS,489236000,0,4822009,4822009,0,4627527,Mcf,282086,255906,WECC,CISO,California Independent System Operator,California
+57483,Mariposa Energy Project,CA,ELECTRIC POWER,2,GT,NG,GAS,136297000,0,1487450,1487450,0,1429864,Mcf,87015,78940,WECC,CISO,California Independent System Operator,California
+57515,Walnut Creek Energy Park,CA,ELECTRIC POWER,2,GT,NG,GAS,347160000,0,3389217,3389217,0,3265145,Mcf,198268,179867,WECC,CISO,California Independent System Operator,California
+57544,Cal State Univ San Bernardino FC01,CA,ELECTRIC POWER,1,FC,NG,GAS,7859000,19745,75430,43586,31844,73376,Mcf,4413,4003,WECC,CISO,California Independent System Operator,California
+57555,Pio Pico Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,168449000,0,1708550,1708550,0,1642837,Mcf,99949,90674,WECC,CISO,California Independent System Operator,California
+57557,Sunnyvale City of WPCP,CA,ELECTRIC POWER,1,IC,NG,GAS,2247280,138,26922,26443,479,26395,Mcf,1575,1429,WECC,CISO,California Independent System Operator,California
+57564,Algonquin Power Sanger LLC,CA,ELECTRIC POWER,2,CA,NG,GAS,16824000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+57564,Algonquin Power Sanger LLC,CA,ELECTRIC POWER,2,CT,NG,GAS,71800000,0,740932,740932,0,720704,Mcf,43344,39322,WECC,CISO,California Independent System Operator,California
+57573,CCCSD Wastewater Treatment Plnt,CA,COMMERCIAL,5,GT,NG,GAS,19248180,109872,321613,121845,199768,309910,Mcf,18814,17068,WECC,CISO,California Independent System Operator,California
+57580,Broadridge Cogen,CA,ELECTRIC POWER,3,IC,NG,GAS,12606000,0,137722,137722,0,133711,Mcf,8057,7309,WECC,CISO,California Independent System Operator,California
+57584,University of California San Diego,CA,COMMERCIAL,5,CA,NG,GAS,7534000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+57584,University of California San Diego,CA,COMMERCIAL,5,CT,NG,GAS,201634000,505685,2281281,1344826,936455,2196410,Mcf,133454,121069,WECC,CISO,California Independent System Operator,California
+57585,Oxnard Paper Mill,CA,INDUSTRIAL,7,GT,NG,GAS,196979000,701997,2178489,1081620,1096869,2137263,Mcf,127441,115613,WECC,CISO,California Independent System Operator,California
+57713,UTAS Cogeneration Plant,CA,INDUSTRIAL,7,IC,NG,GAS,19679232,21341,219699,170063,49636,211452,Mcf,12852,11660,WECC,CISO,California Independent System Operator,California
+57713,UTAS Cogeneration Plant,CA,INDUSTRIAL,7,IC,DFO,PET,325768,354,3637,2814,823,616,Barrels,293,266,WECC,CISO,California Independent System Operator,California
+57714,City of Palo Alto,CA,ELECTRIC POWER,1,IC,NG,GAS,13000,0,196,196,0,187,Mcf,11,10,WECC,CISO,California Independent System Operator,California
+57715,Watkins Manufacturing Co.,CA,INDUSTRIAL,6,IC,NG,GAS,3315340,0,73730,73730,0,70942,Mcf,4313,3913,SPP,CISO,California Independent System Operator,California
+57735,UCSD Fuel Cell Plant,CA,ELECTRIC POWER,2,FC,NG,GAS,10162962,0,93252,93252,0,93722,Mcf,5455,4949,WECC,CISO,California Independent System Operator,California
+57770,South Bay Fuel Cell Plant,CA,ELECTRIC POWER,2,FC,NG,GAS,3505298,0,31848,31848,0,32007,Mcf,1863,1690,WECC,CISO,California Independent System Operator,California
+57793,Sonoma County Fuel Cell,CA,COMMERCIAL,5,FC,NG,GAS,8872000,10345,76053,57247,18806,73480,Mcf,4449,4036,WECC,CISO,California Independent System Operator,California
+57807,Coca Cola American Canyon,CA,ELECTRIC POWER,2,FC,NG,GAS,3256000,0,29357,29357,0,28503,Mcf,1717,1558,WECC,CISO,California Independent System Operator,California
+57808,Lockheed Martin Sunnyvale,CA,ELECTRIC POWER,2,FC,NG,GAS,7862000,0,58954,58954,0,57236,Mcf,3449,3129,WECC,CISO,California Independent System Operator,California
+57809,Franklin Templeton San Mateo,CA,ELECTRIC POWER,2,FC,NG,GAS,7553000,0,54570,54570,0,52981,Mcf,3192,2896,WECC,CISO,California Independent System Operator,California
+57811,Adobe San Jose,CA,ELECTRIC POWER,2,FC,NG,GAS,8757000,0,64164,64164,0,62295,Mcf,3754,3405,WECC,CISO,California Independent System Operator,California
+57901,El Segundo Energy Center LLC,CA,ELECTRIC POWER,2,CA,NG,GAS,349632000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+57901,El Segundo Energy Center LLC,CA,ELECTRIC POWER,2,CT,NG,GAS,942533000,0,10935331,10935331,0,10720913,Mcf,639712,580343,WECC,CISO,California Independent System Operator,California
+57916,Spreckels Sugar Company,CA,INDUSTRIAL,7,ST,NG,GAS,24443030,913532,1298066,111662,1186404,1251752,Mcf,75936,68889,WECC,IID,Imperial Irrigation District,California
+57977,High Sierra Cogeneration Plant,CA,ELECTRIC POWER,1,IC,NG,GAS,25115000,43661,250981,168604,82377,240403,Mcf,14682,13320,WECC,CISO,California Independent System Operator,California
+57978,Lodi Energy Center,CA,ELECTRIC POWER,1,CA,NG,GAS,255636000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+57978,Lodi Energy Center,CA,ELECTRIC POWER,1,CT,NG,GAS,470875000,0,5259490,5259490,0,5068445,Mcf,307678,279124,WECC,CISO,California Independent System Operator,California
+58056,MillerCoors Irwindale Brewery,CA,INDUSTRIAL,6,GT,NG,GAS,7892000,0,142721,142721,0,137618,Mcf,8349,7574,WECC,CISO,California Independent System Operator,California
+58083,Fullerton Mill CHP,CA,INDUSTRIAL,7,CA,NG,GAS,7272000,0,0,0,0,0,Mcf,0,0,WECC,CISO,California Independent System Operator,California
+58083,Fullerton Mill CHP,CA,INDUSTRIAL,7,CT,NG,GAS,70968000,342491,981669,446524,535145,952320,Mcf,57427,52098,WECC,CISO,California Independent System Operator,California
+58100,Kern Oil & Refining Co,CA,INDUSTRIAL,6,GT,NG,GAS,35198000,0,530918,530918,0,514607,Mcf,31058,28176,WECC,CISO,California Independent System Operator,California
+58122,Delano Energy Center,CA,ELECTRIC POWER,2,GT,NG,GAS,18716000,0,219140,219140,0,214004,Mcf,12820,11630,WECC,CISO,California Independent System Operator,California
+58128,Kaiser Downey,CA,ELECTRIC POWER,2,FC,NG,GAS,8321940,0,54612,54612,0,53019,Mcf,3195,2898,WECC,CISO,California Independent System Operator,California
+58132,Kaiser Ontario,CA,ELECTRIC POWER,2,FC,NG,GAS,1810421,0,12362,12362,0,12003,Mcf,723,656,WECC,CISO,California Independent System Operator,California
+58168,Energy Center,CA,COMMERCIAL,5,IC,NG,GAS,6938400,0,58980,58980,0,49150,Mcf,3450,3130,WECC,CISO,California Independent System Operator,California
+58169,CSUF Trigeneration,CA,COMMERCIAL,5,GT,NG,GAS,26744380,149527,345289,131679,213610,334582,Mcf,20199,18325,WECC,CISO,California Independent System Operator,California
+58198,Parnassus Central Utility Plant,CA,COMMERCIAL,5,CA,NG,GAS,7138115,32227,90796,37965,52831,87818,Mcf,5312,4819,WECC,CISO,California Independent System Operator,California
+58198,Parnassus Central Utility Plant,CA,COMMERCIAL,5,CA,DFO,PET,10885,0,0,0,0,0,Barrels,0,0,WECC,CISO,California Independent System Operator,California
+58198,Parnassus Central Utility Plant,CA,COMMERCIAL,5,CT,NG,GAS,62445725,336822,938417,386250,552167,903480,Mcf,54897,49802,WECC,CISO,California Independent System Operator,California
+58198,Parnassus Central Utility Plant,CA,COMMERCIAL,5,CT,DFO,PET,79275,427,1249,549,700,213,Barrels,101,91,WECC,CISO,California Independent System Operator,California
+58223,Hoag Hospital Cogen Plant,CA,COMMERCIAL,5,IC,NG,GAS,2547020,127382,353296,157324,195972,344480,Mcf,20668,18750,WECC,CISO,California Independent System Operator,California
+58258,Central Utilities Plant LAX 2,CA,COMMERCIAL,5,GT,NG,GAS,29131480,204569,364279,120743,243536,351960,Mcf,21310,19332,WECC,LDWP,Los Angeles Department of Water and Power,California
+58296,Roll Delano 2,CA,ELECTRIC POWER,2,FC,NG,GAS,8026000,0,58658,58658,0,56402,Mcf,3431,3113,WECC,CISO,California Independent System Operator,California
+58297,Roll Delano,CA,ELECTRIC POWER,2,FC,NG,GAS,2242000,0,14468,14468,0,13911,Mcf,846,768,WECC,CISO,California Independent System Operator,California
+58298,Roll Lost Hills,CA,ELECTRIC POWER,2,FC,NG,GAS,6902000,0,52116,52116,0,50110,Mcf,3049,2766,WECC,CISO,California Independent System Operator,California
+58299,Xilinx San Jose,CA,ELECTRIC POWER,2,FC,NG,GAS,7689000,0,57605,57605,0,55928,Mcf,3370,3057,WECC,CISO,California Independent System Operator,California
+58300,Honda Torrance,CA,ELECTRIC POWER,2,FC,NG,GAS,7329000,0,55669,55669,0,53527,Mcf,3257,2954,WECC,CISO,California Independent System Operator,California
+58301,Juniper Networks Sunnyvale,CA,ELECTRIC POWER,2,FC,NG,GAS,7777000,0,55753,55753,0,54129,Mcf,3262,2959,WECC,CISO,California Independent System Operator,California
+58302,Life Technologies Carlsbad,CA,ELECTRIC POWER,2,FC,NG,GAS,7890000,0,57747,57747,0,55581,Mcf,3378,3065,WECC,CISO,California Independent System Operator,California
+58303,Taylor Farms Salinas,CA,ELECTRIC POWER,2,FC,NG,GAS,7640000,0,55031,55031,0,53428,Mcf,3219,2921,WECC,CISO,California Independent System Operator,California
+58422,CSU Northridge Plant,CA,COMMERCIAL,5,FC,NG,GAS,6913170,0,67036,67036,0,64832,Mcf,3922,3558,WECC,LDWP,Los Angeles Department of Water and Power,California
+58432,Houweling Nurseries,CA,ELECTRIC POWER,3,IC,NG,GAS,74445000,0,658423,658423,0,637389,Mcf,38517,34943,WECC,CISO,California Independent System Operator,California
+58440,CBS Studio Center,CA,COMMERCIAL,4,FC,NG,GAS,9242470,0,83596,83596,0,82044,Mcf,4890,4436,WECC,LDWP,Los Angeles Department of Water and Power,California
+58525,City of Hayward WWTP,CA,ELECTRIC POWER,3,IC,NG,GAS,359588,0,3409,3409,0,3409,Mcf,199,181,WECC,CISO,California Independent System Operator,California
+58585,Sierra Nevada Brewing Co,CA,INDUSTRIAL,7,GT,NG,GAS,8165360,44713,121901,47381,74520,120694,Mcf,7131,6469,WECC,CISO,California Independent System Operator,California
+58593,DGS Central Utility Plant,CA,COMMERCIAL,5,IC,DFO,PET,9000,2,72,60,12,12,Barrels,6,5,WECC,BANC,Balancing Authority of Northern California,California
+58593,DGS Central Utility Plant,CA,COMMERCIAL,5,ST,NG,GAS,187000,2940,18831,3358,15473,18538,Mcf,1102,999,WECC,BANC,Balancing Authority of Northern California,California
+58607,One Market Plaza,CA,COMMERCIAL,5,IC,NG,GAS,3582000,15692,43622,19482,24140,42270,Mcf,2552,2315,WECC,CISO,California Independent System Operator,California
+58619,Transamerica Pyramid,CA,COMMERCIAL,5,IC,NG,GAS,3099000,235619,379046,16556,362490,379046,Mcf,22174,20116,WECC,CISO,California Independent System Operator,California
+58625,Santa Rita Jail,CA,ELECTRIC POWER,3,FC,NG,GAS,12000000,0,52325,52325,0,58139,Mcf,3061,2777,WECC,CISO,California Independent System Operator,California
+58914,MCAGCC Cogen Plant,CA,ELECTRIC POWER,3,GT,NG,GAS,81355000,510421,999598,369448,630150,965795,Mcf,58476,53049,WECC,CISO,California Independent System Operator,California
+58960,Subregional Water Reclamation Facility,CA,COMMERCIAL,5,IC,NG,GAS,1896854,4237,18590,11285,7305,18013,Mcf,1088,987,WECC,CISO,California Independent System Operator,California
+59074,"SC 1 Data Center, Phase 2",CA,ELECTRIC POWER,2,IC,DFO,PET,195520,0,3146,3146,0,515,Barrels,254,230,WECC,CISO,California Independent System Operator,California
+59261,Verizon-Torrance,CA,ELECTRIC POWER,2,FC,NG,GAS,7881000,0,56107,56107,0,53948,Mcf,3282,2978,WECC,LDWP,Los Angeles Department of Water and Power,California
+59279,Life Technologies - Pleasanton,CA,ELECTRIC POWER,2,FC,NG,GAS,7807000,0,58693,58693,0,56982,Mcf,3434,3115,WECC,CISO,California Independent System Operator,California
+59280,Kellogg's - San Jose,CA,ELECTRIC POWER,2,FC,NG,GAS,7642000,0,57101,57101,0,55439,Mcf,3340,3030,WECC,CISO,California Independent System Operator,California
+59456,P Plant,CA,COMMERCIAL,5,GT,NG,GAS,35725000,64021,392417,259042,133375,380249,Mcf,22956,20826,WECC,CISO,California Independent System Operator,California
+59457,Q Plant,CA,COMMERCIAL,5,GT,NG,GAS,33961000,117757,355154,176733,178421,344142,Mcf,20776,18848,WECC,CISO,California Independent System Operator,California
+59458,W Plant,CA,COMMERCIAL,5,GT,NG,GAS,33722000,86933,356428,203917,152511,345375,Mcf,20851,18916,WECC,CISO,California Independent System Operator,California
+59658,SPI Anderson 2,CA,INDUSTRIAL,7,ST,NG,GAS,122295,1572,2545,580,1965,2545,Mcf,149,135,WECC,CISO,California Independent System Operator,California
+59800,Amazon San Bernardino,CA,ELECTRIC POWER,2,FC,NG,GAS,7715000,0,54990,54990,0,52875,Mcf,3217,2918,WECC,CISO,California Independent System Operator,California
+59802,Maxim,CA,ELECTRIC POWER,2,FC,NG,GAS,7948000,0,8186,8186,0,7948,Mcf,479,434,WECC,CISO,California Independent System Operator,California
+59803,Pixar - Emeryville,CA,ELECTRIC POWER,2,FC,NG,GAS,7969000,0,57144,57144,0,55481,Mcf,3343,3033,WECC,CISO,California Independent System Operator,California
+59804,Starbucks - Evolution Fresh,CA,ELECTRIC POWER,2,FC,NG,GAS,7498000,0,54509,54509,0,52412,Mcf,3189,2893,WECC,CISO,California Independent System Operator,California
+59805,Yahoo! - HQ,CA,ELECTRIC POWER,2,FC,NG,GAS,7844000,0,5635,5635,0,5469,Mcf,330,299,WECC,CISO,California Independent System Operator,California
+59877,Riverside RWQCP Fuel Cell,CA,COMMERCIAL,5,FC,NG,GAS,402917,0,3644,3644,0,3486,Mcf,213,193,WECC,CISO,California Independent System Operator,California
+60120,UCI Fuel Cell,CA,ELECTRIC POWER,3,FC,NG,GAS,10808000,12002,95394,73168,22226,93251,Mcf,5581,5063,WECC,CISO,California Independent System Operator,California
+60223,Equinix San Jose,CA,ELECTRIC POWER,2,FC,NG,GAS,8357000,0,55004,55004,0,53403,Mcf,3218,2919,WECC,CISO,California Independent System Operator,California
+60224,Intel Santa Clara,CA,ELECTRIC POWER,2,FC,NG,GAS,7529000,0,55708,55708,0,54085,Mcf,3259,2956,WECC,CISO,California Independent System Operator,California
+60249,Silicon Valley Clean Water,CA,ELECTRIC POWER,3,IC,NG,GAS,728439,2211,7775,4207,3568,7548,Mcf,455,413,WECC,CISO,California Independent System Operator,California
+60385,Santa Rita Jail Fuel Cell,CA,ELECTRIC POWER,3,FC,NG,GAS,11023000,0,89517,89517,0,86157,Mcf,5237,4751,WECC,CISO,California Independent System Operator,California
+61027,Pacific Ethanol Stockton Cogen Plant,CA,INDUSTRIAL,6,GT,NG,GAS,0,0,5703,5703,0,5500,Mcf,334,303,WECC,CISO,California Independent System Operator,California
+61153,AT&T Holger,CA,ELECTRIC POWER,2,FC,NG,GAS,10879000,0,69295,69295,0,67278,Mcf,4054,3678,WECC,CISO,California Independent System Operator,California
+61154,AT&T Anaheim,CA,ELECTRIC POWER,2,FC,NG,GAS,10401000,0,66171,66171,0,63625,Mcf,3871,3512,WECC,CISO,California Independent System Operator,California
+61475,"CoreSite Real Estate 1656 McCarthy, L.P.",CA,COMMERCIAL,4,IC,DFO,PET,36000,0,359,359,0,62,Barrels,29,26,WECC,CISO,California Independent System Operator,California
+99999,Partially Reporting Facilities,CA,ELECTRIC POWER,2,GT,NG,GAS,12363996,0,109692,109692,0,106496,Mcf,6417,5821,WECC,LDWP,Los Angeles Department of Water and Power,California
+99999,Partially Reporting Facilities,CA,ELECTRIC POWER,2,ST,GEO,GEO,71403655,0,243629,657840,0,0,,2071,1878,WECC,IID,Imperial Irrigation District,California
+99999,Partially Reporting Facilities,CA,INDUSTRIAL,7,GT,NG,GAS,546199779,773992,5403692,3855715,1547977,5258448,Mcf,316114,286777,WECC,CISO,California Independent System Operator,California

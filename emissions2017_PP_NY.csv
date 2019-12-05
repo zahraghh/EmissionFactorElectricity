@@ -1,0 +1,268 @@
+Plant Code,Plant Name,State,Sector Group,Sector Code,Prime Mover,Fuel Code,Aggregated Fuel Group,Generation (kWh),Useful Thermal Output (MMBtu),Total Fuel Consumption (MMBtu),Fuel Consumption for Electric Generation (MMBtu),"
+ Fuel Consumption for Useful Thermal Output (MMBtu)",Quantity of Fuel Consumed,Fuel Units,Tons of CO2 Emissions,Metric Tonnes of CO2 Emissions,NERC Region,Balancing Authority Code,Balancing Authority Name,EIA Balancing Authority Region
+2480,Danskammer Generating Station,NY,ELECTRIC POWER,2,IC,DFO,PET,0,0,1531,1531,0,260,Barrels,123,112,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2480,Danskammer Generating Station,NY,ELECTRIC POWER,2,ST,NG,GAS,8948000,0,104268,104268,0,102224,Mcf,6100,5534,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2485,South Cairo,NY,ELECTRIC POWER,1,GT,KER,PET,59000,0,935,935,0,167,Barrels,75,68,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2487,West Coxsackie,NY,ELECTRIC POWER,1,GT,NG,GAS,405000,0,5439,5439,0,5287,Mcf,318,289,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2490,Arthur Kill Generating Station,NY,ELECTRIC POWER,2,GT,NG,GAS,361000,0,8223,8223,0,7984,Mcf,481,436,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2490,Arthur Kill Generating Station,NY,ELECTRIC POWER,2,ST,NG,GAS,826757000,0,9323565,9323565,0,9052004,Mcf,545425,494806,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2493,East River,NY,ELECTRIC POWER,1,GT,NG,GAS,2454710084,3136835,26821466,19692295,7129171,25719242,Mcf,1569045,1423428,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2493,East River,NY,ELECTRIC POWER,1,GT,DFO,PET,461916,501,4838,3699,1139,848,Barrels,390,354,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2493,East River,NY,ELECTRIC POWER,1,ST,NG,GAS,614265344,1262527,7828250,4958871,2869379,7520339,Mcf,457949,415449,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2493,East River,NY,ELECTRIC POWER,1,ST,RFO,PET,23622656,63909,335978,190729,145249,54277,Barrels,29180,26472,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2494,Gowanus Gas Turbines Generating,NY,ELECTRIC POWER,2,GT,NG,GAS,4945133,0,89178,89178,0,85750,Mcf,5217,4733,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2494,Gowanus Gas Turbines Generating,NY,ELECTRIC POWER,2,GT,DFO,PET,2088867,0,37669,37669,0,6540,Barrels,3038,2756,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2496,Hudson Avenue,NY,ELECTRIC POWER,1,GT,KER,PET,2104000,0,38828,38828,0,6859,Barrels,3094,2807,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2499,Narrows Gas Turbines Generating,NY,ELECTRIC POWER,2,GT,NG,GAS,23961504,0,419111,419111,0,402990,Mcf,24518,22242,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2499,Narrows Gas Turbines Generating,NY,ELECTRIC POWER,2,GT,DFO,PET,92496,0,1617,1617,0,280,Barrels,130,118,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2500,Ravenswood,NY,ELECTRIC POWER,2,CA,NG,GAS,435843126,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2500,Ravenswood,NY,ELECTRIC POWER,2,CA,KER,PET,-263126,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2500,Ravenswood,NY,ELECTRIC POWER,2,CT,NG,GAS,969965647,0,10342274,10342274,0,10008647,Mcf,605019,548869,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2500,Ravenswood,NY,ELECTRIC POWER,2,CT,KER,PET,489353,0,7841,7841,0,1475,Barrels,625,567,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2500,Ravenswood,NY,ELECTRIC POWER,2,GT,NG,GAS,20692921,0,356668,356668,0,345104,Mcf,20865,18929,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2500,Ravenswood,NY,ELECTRIC POWER,2,GT,KER,PET,3079,0,74,74,0,14,Barrels,6,5,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2500,Ravenswood,NY,ELECTRIC POWER,2,ST,NG,GAS,1544376819,0,17817794,17817794,0,17231846,Mcf,1042334,945599,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2500,Ravenswood,NY,ELECTRIC POWER,2,ST,RFO,PET,30306181,0,344604,344604,0,55689,Barrels,29929,27152,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2503,59th Street,NY,ELECTRIC POWER,1,GT,NG,GAS,93000,0,1913,1913,0,1836,Mcf,112,102,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2504,74th Street,NY,ELECTRIC POWER,1,GT,KER,PET,504000,0,6722,6722,0,1188,Barrels,536,486,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2511,E F Barrett,NY,ELECTRIC POWER,1,GT,NG,GAS,73742530,0,1226286,1226286,0,1190568,Mcf,71737,65080,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2511,E F Barrett,NY,ELECTRIC POWER,1,GT,DFO,PET,3175470,0,49028,49028,0,8436,Barrels,3954,3587,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2511,E F Barrett,NY,ELECTRIC POWER,1,ST,NG,GAS,1264517060,0,13975126,13975126,0,13583455,Mcf,817539,741667,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2511,E F Barrett,NY,ELECTRIC POWER,1,ST,RFO,PET,16160940,0,174706,174706,0,27695,Barrels,15173,13765,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2512,East Hampton,NY,ELECTRIC POWER,1,GT,DFO,PET,6480000,0,91361,91361,0,16014,Barrels,7368,6684,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2512,East Hampton,NY,ELECTRIC POWER,1,IC,DFO,PET,1144000,0,12300,12300,0,2156,Barrels,992,900,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2514,Glenwood,NY,ELECTRIC POWER,1,GT,DFO,PET,755000,0,20314,20314,0,3557,Barrels,1638,1486,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2516,Northport,NY,ELECTRIC POWER,1,GT,DFO,PET,21000,0,3699,3699,0,644,Barrels,298,271,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2516,Northport,NY,ELECTRIC POWER,1,ST,NG,GAS,1528796671,0,16732276,16732276,0,16261586,Mcf,978831,887990,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2516,Northport,NY,ELECTRIC POWER,1,ST,RFO,PET,98702329,0,1055293,1055293,0,166532,Barrels,91653,83147,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2517,Port Jefferson,NY,ELECTRIC POWER,1,GT,NG,GAS,40579016,0,456227,456227,0,442940,Mcf,26689,24212,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2517,Port Jefferson,NY,ELECTRIC POWER,1,GT,DFO,PET,2168984,0,24384,24384,0,4190,Barrels,1966,1784,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2517,Port Jefferson,NY,ELECTRIC POWER,1,ST,NG,GAS,162095782,0,1993078,1993078,0,1942517,Mcf,116594,105774,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2517,Port Jefferson,NY,ELECTRIC POWER,1,ST,RFO,PET,36352218,0,392824,392824,0,62398,Barrels,34117,30951,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2518,Shoreham,NY,ELECTRIC POWER,1,GT,DFO,PET,720000,0,14796,14796,0,2605,Barrels,1193,1082,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2519,South Hampton,NY,ELECTRIC POWER,1,GT,DFO,PET,951000,0,26372,26372,0,4631,Barrels,2127,1929,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2520,Southold,NY,ELECTRIC POWER,1,GT,DFO,PET,141000,0,27371,27371,0,4631,Barrels,2207,2002,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2521,West Babylon,NY,ELECTRIC POWER,1,GT,DFO,PET,732000,0,15097,15097,0,2598,Barrels,1217,1105,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2527,Greenidge Generation LLC,NY,ELECTRIC POWER,2,ST,NG,GAS,167143000,0,1845260,1845260,0,1795000,Mcf,107947,97929,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2528,Harris Lake,NY,ELECTRIC POWER,1,IC,DFO,PET,31000,0,1456,1456,0,252,Barrels,117,107,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2535,Cayuga Operating Company,NY,ELECTRIC POWER,2,ST,BIT,COAL,220762937,0,2632719,2632719,0,103294,Tons,270763,245635,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2535,Cayuga Operating Company,NY,ELECTRIC POWER,2,ST,DFO,PET,3539063,0,42382,42382,0,7323,Barrels,3418,3101,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2539,Bethlehem Energy Center,NY,ELECTRIC POWER,2,CA,NG,GAS,1749423000,0,59426,59426,0,57754,Mcf,3476,3154,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2539,Bethlehem Energy Center,NY,ELECTRIC POWER,2,CT,NG,GAS,3554296000,0,37141447,37141447,0,36069135,Mcf,2172759,1971114,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2594,Oswego Harbor Power,NY,ELECTRIC POWER,2,ST,NG,GAS,2263152,0,26578,26578,0,25740,Mcf,1555,1411,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2594,Oswego Harbor Power,NY,ELECTRIC POWER,2,ST,RFO,PET,37409848,0,411822,411822,0,65462,Barrels,35767,32448,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2625,Bowline Point,NY,ELECTRIC POWER,2,ST,NG,GAS,1194734657,0,12847795,12847795,0,12525285,Mcf,751591,681839,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2625,Bowline Point,NY,ELECTRIC POWER,2,ST,RFO,PET,15832343,0,175396,175396,0,27965,Barrels,15233,13820,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2628,Hillburn,NY,ELECTRIC POWER,2,GT,NG,GAS,383000,0,7270,7270,0,7196,Mcf,425,386,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2632,Shoemaker,NY,ELECTRIC POWER,2,GT,NG,GAS,379000,0,7986,7986,0,7909,Mcf,467,424,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2678,Plant No 1 Freeport,NY,ELECTRIC POWER,1,IC,DFO,PET,140000,0,1954,1954,0,349,Barrels,158,143,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2679,Plant No 2 Freeport,NY,ELECTRIC POWER,1,GT,NG,GAS,38733217,0,408679,408679,0,396777,Mcf,23908,21689,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2679,Plant No 2 Freeport,NY,ELECTRIC POWER,1,GT,KER,PET,643783,0,6793,6793,0,1198,Barrels,541,491,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2681,Greenport,NY,ELECTRIC POWER,1,IC,DFO,PET,19000,0,228,228,0,39,Barrels,18,17,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2682,S A Carlson,NY,ELECTRIC POWER,1,GT,NG,GAS,121366000,0,1203711,1203711,0,1167518,Mcf,70417,63882,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2682,S A Carlson,NY,ELECTRIC POWER,1,ST,NG,GAS,34344480,0,298953,298953,0,289965,Mcf,17489,15866,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2682,S A Carlson,NY,ELECTRIC POWER,1,ST,DFO,PET,124520,0,1428,1428,0,238,Barrels,115,104,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2695,Charles P Keller,NY,ELECTRIC POWER,1,IC,NG,GAS,169552,0,13914,13914,0,12368,Mcf,814,738,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+2695,Charles P Keller,NY,ELECTRIC POWER,1,IC,DFO,PET,143448,0,11770,11770,0,2023,Barrels,949,861,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+6082,Somerset Operating Co LLC,NY,ELECTRIC POWER,2,ST,BIT,COAL,340772133,0,3637743,3637743,0,138888,Tons,374126,339405,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+6082,Somerset Operating Co LLC,NY,ELECTRIC POWER,2,ST,DFO,PET,6919867,0,78054,78054,0,13516,Barrels,6295,5710,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7146,Wading River,NY,ELECTRIC POWER,1,GT,DFO,PET,5721000,0,198201,198201,0,34061,Barrels,15984,14501,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7314,Richard M Flynn,NY,ELECTRIC POWER,1,CA,NG,GAS,314970975,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7314,Richard M Flynn,NY,ELECTRIC POWER,1,CA,DFO,PET,4651025,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7314,Richard M Flynn,NY,ELECTRIC POWER,1,CT,NG,GAS,639487104,0,7706698,7706698,0,7496270,Mcf,450839,408998,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7314,Richard M Flynn,NY,ELECTRIC POWER,1,CT,DFO,PET,9442896,0,112519,112519,0,19365,Barrels,9074,8232,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7784,Allegany Cogen,NY,ELECTRIC POWER,2,CA,NG,GAS,10593000,0,38199,38199,0,37085,Mcf,2235,2027,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7784,Allegany Cogen,NY,ELECTRIC POWER,2,CT,NG,GAS,22549000,0,257354,257354,0,249858,Mcf,15055,13658,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7869,Glenwood Landing,NY,ELECTRIC POWER,1,GT,NG,GAS,99983293,0,1073221,1073221,0,1045005,Mcf,62783,56956,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7869,Glenwood Landing,NY,ELECTRIC POWER,1,GT,DFO,PET,708707,0,7610,7610,0,1326,Barrels,614,557,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7909,Vernon Boulevard,NY,ELECTRIC POWER,1,GT,NG,GAS,48335000,0,552388,552388,0,533193,Mcf,32314,29315,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7910,Joseph J Seymour Power Project,NY,ELECTRIC POWER,1,GT,NG,GAS,86709000,0,973783,973783,0,930070,Mcf,56966,51679,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7912,Brentwood,NY,ELECTRIC POWER,1,GT,NG,GAS,48984000,0,520948,520948,0,506760,Mcf,30475,27647,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7913,Hell Gate,NY,ELECTRIC POWER,1,GT,NG,GAS,25775000,0,307565,307565,0,299189,Mcf,17992,16323,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7914,Harlem River Yard,NY,ELECTRIC POWER,1,GT,NG,GAS,20625000,0,243434,243434,0,234749,Mcf,14241,12919,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+7915,North 1st,NY,ELECTRIC POWER,1,GT,NG,GAS,37362000,0,419722,419722,0,404748,Mcf,24554,22275,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+8006,Roseton Generating Facility,NY,ELECTRIC POWER,2,ST,NG,GAS,222004356,0,2610078,2610078,0,2584235,Mcf,152688,138518,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+8006,Roseton Generating Facility,NY,ELECTRIC POWER,2,ST,RFO,PET,94436644,0,982322,982322,0,153788,Barrels,85316,77398,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+8007,Holtsville,NY,ELECTRIC POWER,1,GT,KER,PET,13290000,0,228867,228867,0,39392,Barrels,18240,16547,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+8009,Auburn State Street,NY,ELECTRIC POWER,1,GT,NG,GAS,101000,0,1793,1793,0,1751,Mcf,105,95,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+8053,Pouch,NY,ELECTRIC POWER,1,GT,NG,GAS,44132000,0,463199,463199,0,443251,Mcf,27097,24582,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+8906,Astoria Generating Station,NY,ELECTRIC POWER,2,GT,NG,GAS,711000,0,12315,12315,0,11981,Mcf,720,654,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+8906,Astoria Generating Station,NY,ELECTRIC POWER,2,ST,NG,GAS,768604435,0,9371591,9371591,0,9121839,Mcf,548234,497355,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+8906,Astoria Generating Station,NY,ELECTRIC POWER,2,ST,RFO,PET,13883565,0,171065,171065,0,27897,Barrels,14857,13478,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10025,"RED-Rochester, LLC",NY,INDUSTRIAL,7,ST,BIT,COAL,208761075,1606587,5100316,1753264,3347052,200907,Tons,524545,475864,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10025,"RED-Rochester, LLC",NY,INDUSTRIAL,7,ST,NG,GAS,97308481,818383,2527406,822445,1704961,2453794,Mcf,147852,134131,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10025,"RED-Rochester, LLC",NY,INDUSTRIAL,7,ST,DFO,PET,371947,2855,9080,3129,5951,1563,Barrels,732,664,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10025,"RED-Rochester, LLC",NY,INDUSTRIAL,7,ST,RFO,PET,6428497,48456,155012,54062,100950,24373,Barrels,13463,12214,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10190,"EPCOR, Castleton Facility",NY,ELECTRIC POWER,2,CA,NG,GAS,47158930,0,87954,87954,0,85392,Mcf,5145,4668,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10190,"EPCOR, Castleton Facility",NY,ELECTRIC POWER,2,CA,DFO,PET,592070,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10190,"EPCOR, Castleton Facility",NY,ELECTRIC POWER,2,CT,NG,GAS,107601639,0,1360315,1360315,0,1320695,Mcf,79578,72193,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10190,"EPCOR, Castleton Facility",NY,ELECTRIC POWER,2,CT,DFO,PET,1516361,0,18954,18954,0,3218,Barrels,1529,1387,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10305,Dutchess Cnty Resource Recovery Facility,NY,COMMERCIAL,5,ST,NG,GAS,1782002,2081,74307,59444,14863,74307,Mcf,4347,3944,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10305,Dutchess Cnty Resource Recovery Facility,NY,COMMERCIAL,5,ST,MSW,MSW,31278998,36524,1304292,1043388,260904,144920,Tons,59939,54376,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10464,ReEnergy Black River,NY,ELECTRIC POWER,2,ST,DFO,PET,407266,0,7541,7541,0,1294,Barrels,608,552,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10503,Wheelabrator Hudson Falls,NY,ELECTRIC POWER,2,ST,NG,GAS,3144241,0,92370,92370,0,92370,Mcf,5404,4902,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10503,Wheelabrator Hudson Falls,NY,ELECTRIC POWER,2,ST,MSW,MSW,67959759,0,1578817,1578817,0,151808,Tons,72555,65821,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10511,Finch Paper,NY,INDUSTRIAL,7,ST,NG,GAS,35114097,1020421,1659687,180815,1478872,1611348,Mcf,97091,88080,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10521,Lederle Laboratories,NY,INDUSTRIAL,7,CA,NG,GAS,12234662,219753,446916,80660,366256,446916,Mcf,26144,23718,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10521,Lederle Laboratories,NY,INDUSTRIAL,7,CA,DFO,PET,575158,229225,385787,3746,382041,66515,Barrels,31112,28224,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10521,Lederle Laboratories,NY,INDUSTRIAL,7,CT,NG,GAS,94491580,410208,1354777,671099,683678,1354777,Mcf,79254,71899,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10617,CH Resources Beaver Falls,NY,ELECTRIC POWER,3,CA,NG,GAS,50000,352,962,308,654,978,Mcf,56,51,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10617,CH Resources Beaver Falls,NY,ELECTRIC POWER,3,CT,NG,GAS,5664000,8865,54260,37844,16416,55142,Mcf,3174,2880,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10620,Carthage Energy LLC,NY,ELECTRIC POWER,2,CA,NG,GAS,1409000,0,2062,2062,0,2011,Mcf,121,109,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10620,Carthage Energy LLC,NY,ELECTRIC POWER,2,CT,NG,GAS,3492000,0,46895,46895,0,45812,Mcf,2743,2489,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10621,CH Resources Syracuse,NY,ELECTRIC POWER,2,CA,NG,GAS,118000,0,1925,1925,0,1956,Mcf,113,102,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10621,CH Resources Syracuse,NY,ELECTRIC POWER,2,CT,NG,GAS,20450000,0,168621,168621,0,171364,Mcf,9864,8949,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10642,Covanta Hempstead,NY,ELECTRIC POWER,2,ST,MSW,MSW,592911979,0,10602001,10602001,0,1060186,Tons,487218,442001,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10642,Covanta Hempstead,NY,ELECTRIC POWER,2,ST,DFO,PET,595021,0,10944,10944,0,1861,Barrels,883,801,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10725,Selkirk Cogen,NY,ELECTRIC POWER,3,CA,NG,GAS,60045000,0,27439,27439,0,26674,Mcf,1605,1456,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+10725,Selkirk Cogen,NY,ELECTRIC POWER,3,CT,NG,GAS,152540000,157791,2043798,1700775,343023,1986532,Mcf,119561,108465,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50136,South Oaks Hospital,NY,COMMERCIAL,5,IC,NG,GAS,6035000,49393,81307,25179,56128,73914,Mcf,4756,4315,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50203,US Gypsum Oakfield,NY,INDUSTRIAL,7,GT,NG,GAS,28131880,171218,420566,153039,267527,391225,Mcf,24603,22320,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50292,Bethpage Power Plant,NY,ELECTRIC POWER,2,CA,NG,GAS,108065000,0,248982,248982,0,241941,Mcf,14565,13214,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50292,Bethpage Power Plant,NY,ELECTRIC POWER,2,CT,NG,GAS,353722000,0,3876394,3876394,0,3767148,Mcf,226767,205722,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50292,Bethpage Power Plant,NY,ELECTRIC POWER,2,GT,NG,GAS,144608000,0,1511582,1511582,0,1468980,Mcf,88427,80220,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50368,Cornell University Central Heat,NY,COMMERCIAL,5,CA,NG,GAS,25767908,185379,364398,117228,247170,353786,Mcf,21317,19339,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50368,Cornell University Central Heat,NY,COMMERCIAL,5,CA,DFO,PET,26092,1888,2634,119,2515,462,Barrels,212,193,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50368,Cornell University Central Heat,NY,COMMERCIAL,5,CT,NG,GAS,225722545,1110785,2529007,1047961,1481046,2455346,Mcf,147946,134216,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50368,Cornell University Central Heat,NY,COMMERCIAL,5,CT,DFO,PET,26455,132,298,123,175,52,Barrels,24,22,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50368,Cornell University Central Heat,NY,COMMERCIAL,5,IC,DFO,PET,41000,231,493,187,306,86,Barrels,40,36,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50427,Bronx Zoo,NY,COMMERCIAL,5,IC,NG,GAS,20215000,78290,262970,123167,139803,239064,Mcf,15384,13956,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50449,Indeck Silver Springs Energy Center,NY,ELECTRIC POWER,3,CA,NG,GAS,14229900,0,20957,20957,0,20447,Mcf,1226,1112,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50449,Indeck Silver Springs Energy Center,NY,ELECTRIC POWER,3,CT,NG,GAS,42547110,800,545462,543179,2283,532245,Mcf,31909,28948,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50450,Indeck Oswego Energy Center,NY,ELECTRIC POWER,3,CA,NG,GAS,17577911,0,29277,29277,0,28759,Mcf,1713,1554,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50450,Indeck Oswego Energy Center,NY,ELECTRIC POWER,3,CA,DFO,PET,4089,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50450,Indeck Oswego Energy Center,NY,ELECTRIC POWER,3,CT,NG,GAS,38226606,189,491082,490541,541,482400,Mcf,28728,26062,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50450,Indeck Oswego Energy Center,NY,ELECTRIC POWER,3,CT,DFO,PET,9394,0,122,122,0,21,Barrels,10,9,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50451,Indeck Yerkes Energy Center,NY,ELECTRIC POWER,3,CA,NG,GAS,12486348,0,14624,14624,0,14110,Mcf,855,776,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50451,Indeck Yerkes Energy Center,NY,ELECTRIC POWER,3,CA,DFO,PET,2652,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50451,Indeck Yerkes Energy Center,NY,ELECTRIC POWER,3,CT,NG,GAS,36252755,0,485694,485694,0,468721,Mcf,28413,25776,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50451,Indeck Yerkes Energy Center,NY,ELECTRIC POWER,3,CT,DFO,PET,8245,0,110,110,0,19,Barrels,9,8,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50458,Indeck Corinth Energy Center,NY,ELECTRIC POWER,3,CA,NG,GAS,243500047,0,302940,302940,0,294645,Mcf,17722,16077,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50458,Indeck Corinth Energy Center,NY,ELECTRIC POWER,3,CA,DFO,PET,1069953,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50458,Indeck Corinth Energy Center,NY,ELECTRIC POWER,3,CT,NG,GAS,424769764,90068,5103347,4903201,200146,4962900,Mcf,298544,270837,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50458,Indeck Corinth Energy Center,NY,ELECTRIC POWER,3,CT,DFO,PET,1932236,121,23631,23362,269,4164,Barrels,1906,1729,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50472,"Covanta Niagara I, LLC",NY,ELECTRIC POWER,3,ST,NG,GAS,12994372,419797,715160,88600,626560,715160,Mcf,41837,37954,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50472,"Covanta Niagara I, LLC",NY,ELECTRIC POWER,3,ST,MSW,MSW,149324628,4692714,8015585,1011532,7004053,803290,Tons,368359,334173,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50649,Covanta Babylon Inc,NY,COMMERCIAL,4,ST,MSW,MSW,114513109,0,2384667,2384667,0,247716,Tons,109588,99418,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50649,Covanta Babylon Inc,NY,COMMERCIAL,4,ST,DFO,PET,310891,0,6562,6562,0,1112,Barrels,529,480,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50656,Huntington Resource Recovery Facility,NY,ELECTRIC POWER,2,ST,MSW,MSW,193129426,0,3444843,3444843,0,344480,Tons,158309,143617,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50656,Huntington Resource Recovery Facility,NY,ELECTRIC POWER,2,ST,PG,PET,500574,0,9010,9010,0,3603,Mcf,626,568,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50662,Onondaga County Resource Recovery,NY,COMMERCIAL,4,ST,NG,GAS,652404,0,11578,11578,0,11240,Mcf,677,614,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50662,Onondaga County Resource Recovery,NY,COMMERCIAL,4,ST,MSW,MSW,220669596,0,3806917,3806917,0,355405,Tons,174948,158712,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50743,Starrett City Cogen Facility,NY,COMMERCIAL,5,IC,DFO,PET,1601320,3392,17588,10933,6655,2837,Barrels,1418,1287,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50743,Starrett City Cogen Facility,NY,COMMERCIAL,5,ST,NG,GAS,64738558,500787,1428444,446509,981935,1400432,Mcf,83563,75808,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50743,Starrett City Cogen Facility,NY,COMMERCIAL,5,ST,RFO,PET,2002292,20209,53434,13811,39623,7858,Barrels,4641,4210,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50744,Sterling Power Plant,NY,ELECTRIC POWER,2,CA,NG,GAS,3620000,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50744,Sterling Power Plant,NY,ELECTRIC POWER,2,CT,NG,GAS,8752000,0,124845,124845,0,123608,Mcf,7303,6626,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50744,Sterling Power Plant,NY,ELECTRIC POWER,2,IC,DFO,PET,2000,0,46,46,0,8,Barrels,4,3,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50882,Wheelabrator Westchester,NY,ELECTRIC POWER,2,ST,MSW,MSW,394250000,0,7311283,7311283,0,703006,Tons,335992,304810,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50907,Oswego County Energy Recovery,NY,COMMERCIAL,5,ST,MSW,MSW,10357660,354177,673468,62817,610651,56121,Tons,30949,28077,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50978,Carr Street Generating Station,NY,ELECTRIC POWER,2,CA,NG,GAS,19881000,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+50978,Carr Street Generating Station,NY,ELECTRIC POWER,2,CT,NG,GAS,65380000,0,749278,749278,0,731002,Mcf,43832,39765,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+51038,MacArthur Waste to Energy Facility,NY,COMMERCIAL,4,ST,NG,GAS,1239431,0,39180,39180,0,39180,Mcf,2292,2079,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+51038,MacArthur Waste to Energy Facility,NY,COMMERCIAL,4,ST,MSW,MSW,54565569,0,1552407,1552407,0,172490,Tons,71341,64720,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+52056,Nassau Energy Corp,NY,ELECTRIC POWER,3,CA,NG,GAS,59568190,0,82322,82322,0,79982,Mcf,4816,4369,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+52056,Nassau Energy Corp,NY,ELECTRIC POWER,3,CA,DFO,PET,3390,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+52056,Nassau Energy Corp,NY,ELECTRIC POWER,3,CT,NG,GAS,279128142,1345754,3441464,1572362,1869102,3343936,Mcf,201324,182640,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+52056,Nassau Energy Corp,NY,ELECTRIC POWER,3,CT,DFO,PET,15548,74,194,92,102,33,Barrels,16,14,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+52168,Riverbay,NY,COMMERCIAL,5,GT,NG,GAS,98918160,345946,1078661,538119,540542,1045215,Mcf,63101,57245,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+52168,Riverbay,NY,COMMERCIAL,5,GT,DFO,PET,1966960,6878,21448,10699,10749,3727,Barrels,1730,1569,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+52168,Riverbay,NY,COMMERCIAL,5,IC,DFO,PET,100940,160,797,548,249,138,Barrels,64,58,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+52168,Riverbay,NY,COMMERCIAL,5,ST,NG,GAS,29245056,932669,1618029,160734,1457295,1568004,Mcf,94654,85870,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+52168,Riverbay,NY,COMMERCIAL,5,ST,DFO,PET,759954,21471,37725,4176,33549,6555,Barrels,3042,2760,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54034,Rensselaer Cogen,NY,ELECTRIC POWER,2,CA,NG,GAS,1676000,0,5215,5215,0,5073,Mcf,305,277,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54034,Rensselaer Cogen,NY,ELECTRIC POWER,2,CT,NG,GAS,4468000,0,51344,51344,0,49925,Mcf,3004,2725,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54041,Lockport Energy Associates LP,NY,ELECTRIC POWER,3,CA,NG,GAS,43952640,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54041,Lockport Energy Associates LP,NY,ELECTRIC POWER,3,CT,NG,GAS,101268000,1280,1311979,1307713,4266,1272531,Mcf,76750,69627,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54076,Indeck Olean Energy Center,NY,ELECTRIC POWER,3,CA,NG,GAS,36681470,0,183838,183838,0,167936,Mcf,10754,9756,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54076,Indeck Olean Energy Center,NY,ELECTRIC POWER,3,CA,DFO,PET,2530,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54076,Indeck Olean Energy Center,NY,ELECTRIC POWER,3,CT,NG,GAS,45938635,5410,594761,580525,14236,543627,Mcf,34793,31564,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54076,Indeck Olean Energy Center,NY,ELECTRIC POWER,3,CT,DFO,PET,4365,0,57,57,0,12,Barrels,5,4,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54099,Ticonderoga Mill,NY,INDUSTRIAL,7,ST,NG,GAS,86543239,722188,1623740,495319,1128421,1623740,Mcf,94988,86173,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54099,Ticonderoga Mill,NY,INDUSTRIAL,7,ST,RFO,PET,31035412,252085,571507,177625,393882,90143,Barrels,49636,45029,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54114,Kennedy International Airport Cogen,NY,ELECTRIC POWER,3,CA,NG,GAS,111372000,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54114,Kennedy International Airport Cogen,NY,ELECTRIC POWER,3,CT,NG,GAS,475221000,0,5181245,5181245,0,4968288,Mcf,303101,274971,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54131,Fortistar North Tonawanda,NY,ELECTRIC POWER,3,CA,NG,GAS,3131000,0,704,704,0,679,Mcf,41,37,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54131,Fortistar North Tonawanda,NY,ELECTRIC POWER,3,CT,NG,GAS,8028000,6780,100625,85558,15067,97162,Mcf,5887,5340,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54149,Stony Brook Cogen Plant,NY,ELECTRIC POWER,3,GT,NG,GAS,299975325,1016507,3158519,1641345,1517174,3069504,Mcf,184772,167624,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54149,Stony Brook Cogen Plant,NY,ELECTRIC POWER,3,GT,DFO,PET,1675,8,18,6,12,3,Barrels,1,1,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54547,Sithe Independence Station,NY,ELECTRIC POWER,3,CA,NG,GAS,1611361090,0,1358536,1358536,0,1320073,Mcf,79474,72098,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54547,Sithe Independence Station,NY,ELECTRIC POWER,3,CT,NG,GAS,2682806600,1715191,30844810,27546369,3298441,29972331,Mcf,1804409,1636949,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54574,Saranac Facility,NY,ELECTRIC POWER,2,CA,NG,GAS,19834000,0,29902,29902,0,28961,Mcf,1749,1587,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54574,Saranac Facility,NY,ELECTRIC POWER,2,CT,NG,GAS,40429000,0,495904,495904,0,482381,Mcf,29010,26318,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54592,Massena Energy Facility,NY,ELECTRIC POWER,2,CA,NG,GAS,1837000,0,7797,7797,0,7586,Mcf,456,414,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54592,Massena Energy Facility,NY,ELECTRIC POWER,2,CT,NG,GAS,3139000,0,40509,40509,0,39421,Mcf,2370,2150,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54593,Batavia Power Plant,NY,ELECTRIC POWER,2,CA,NG,GAS,5721680,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54593,Batavia Power Plant,NY,ELECTRIC POWER,2,CT,NG,GAS,14481000,0,186128,186128,0,180706,Mcf,10888,9878,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54593,Batavia Power Plant,NY,ELECTRIC POWER,2,IC,DFO,PET,0,0,12,12,0,2,Barrels,1,1,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54808,New York University Central Plant,NY,COMMERCIAL,5,CA,NG,GAS,8026748,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54808,New York University Central Plant,NY,COMMERCIAL,5,CA,DFO,PET,214252,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54808,New York University Central Plant,NY,COMMERCIAL,5,CT,NG,GAS,80275276,0,878279,878279,0,1014179,Mcf,51379,46611,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54808,New York University Central Plant,NY,COMMERCIAL,5,CT,DFO,PET,2142724,0,23442,23442,0,3960,Barrels,1890,1715,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54863,Bassett Medical Center,NY,COMMERCIAL,4,IC,DFO,PET,31000,0,306,306,0,52,Barrels,25,22,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54914,Brooklyn Navy Yard Cogeneration,NY,ELECTRIC POWER,3,CA,NG,GAS,359922823,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54914,Brooklyn Navy Yard Cogeneration,NY,ELECTRIC POWER,3,CA,DFO,PET,1925177,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54914,Brooklyn Navy Yard Cogeneration,NY,ELECTRIC POWER,3,CT,NG,GAS,1587125890,3869637,18125809,11454019,6671790,17477955,Mcf,1060352,961945,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+54914,Brooklyn Navy Yard Cogeneration,NY,ELECTRIC POWER,3,CT,DFO,PET,16448110,44652,185072,108086,76986,31909,Barrels,14925,13540,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55243,Astoria Gas Turbines,NY,ELECTRIC POWER,2,GT,NG,GAS,28987345,0,428270,428270,0,415797,Mcf,25054,22728,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55243,Astoria Gas Turbines,NY,ELECTRIC POWER,2,GT,KER,PET,472655,0,6984,6984,0,1247,Barrels,557,505,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55375,Astoria Energy,NY,ELECTRIC POWER,2,CA,NG,GAS,1198056414,0,374760,374760,0,363962,Mcf,21923,19889,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55375,Astoria Energy,NY,ELECTRIC POWER,2,CA,DFO,PET,10825586,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55375,Astoria Energy,NY,ELECTRIC POWER,2,CT,NG,GAS,2024610474,0,23184057,23184057,0,22505868,Mcf,1356258,1230389,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55375,Astoria Energy,NY,ELECTRIC POWER,2,CT,DFO,PET,19062526,0,217421,217421,0,37512,Barrels,17534,15907,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55405,Athens Generating Plant,NY,ELECTRIC POWER,2,CA,NG,GAS,1345235000,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55405,Athens Generating Plant,NY,ELECTRIC POWER,2,CT,NG,GAS,2546035000,0,28328846,28328846,0,27560989,Mcf,1657226,1503425,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55600,Binghamton Cogen,NY,ELECTRIC POWER,3,GT,NG,GAS,3025000,2293,37924,31372,6552,36962,Mcf,2219,2013,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55699,Bayswater Peaking Facility LLC,NY,ELECTRIC POWER,2,GT,NG,GAS,99575000,0,1067090,1067090,0,1067090,Mcf,62424,56631,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55786,PPL Edgewood Energy LLC,NY,ELECTRIC POWER,2,GT,NG,GAS,72148000,0,755627,755627,0,733619,Mcf,44204,40101,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55787,PPL Shoreham Energy LLC,NY,ELECTRIC POWER,2,GT,KER,PET,4496000,0,43886,43886,0,7837,Barrels,3498,3173,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+55969,Hawkeye Energy Greenport LLC,NY,ELECTRIC POWER,2,GT,KER,PET,8802000,0,102235,102235,0,17920,Barrels,8148,7392,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56032,Equus Freeport Power,NY,ELECTRIC POWER,2,GT,NG,GAS,85146464,0,876943,876943,0,859748,Mcf,51301,46540,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56032,Equus Freeport Power,NY,ELECTRIC POWER,2,GT,KER,PET,547536,0,5641,5641,0,1007,Barrels,450,408,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56141,Jamaica Bay Peaking,NY,ELECTRIC POWER,2,GT,KER,PET,7358000,0,78956,78956,0,13382,Barrels,6293,5709,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56188,Pinelawn Power LLC,NY,ELECTRIC POWER,2,CA,NG,GAS,25692102,0,50400,50400,0,49026,Mcf,2948,2675,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56188,Pinelawn Power LLC,NY,ELECTRIC POWER,2,CA,KER,PET,300898,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56188,Pinelawn Power LLC,NY,ELECTRIC POWER,2,CT,NG,GAS,98726682,0,1044714,1044714,0,1016567,Mcf,61115,55443,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56188,Pinelawn Power LLC,NY,ELECTRIC POWER,2,CT,KER,PET,1340318,0,13891,13891,0,2437,Barrels,1107,1004,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56196,500MW CC,NY,ELECTRIC POWER,1,CA,NG,GAS,873374580,0,0,0,0,0,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56196,500MW CC,NY,ELECTRIC POWER,1,CA,DFO,PET,3636420,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56196,500MW CC,NY,ELECTRIC POWER,1,CT,NG,GAS,1340962205,0,17185614,17185614,0,16705607,Mcf,1005351,912049,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56196,500MW CC,NY,ELECTRIC POWER,1,CT,DFO,PET,5739795,0,73105,73105,0,12747,Barrels,5896,5348,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56234,Caithness Long Island Energy Center,NY,ELECTRIC POWER,2,CA,NG,GAS,954645835,0,1326223,1326223,0,1291334,Mcf,77584,70383,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56234,Caithness Long Island Energy Center,NY,ELECTRIC POWER,2,CA,DFO,PET,122165,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56234,Caithness Long Island Energy Center,NY,ELECTRIC POWER,2,CT,NG,GAS,1460190018,0,16561873,16561873,0,16120280,Mcf,968863,878947,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56234,Caithness Long Island Energy Center,NY,ELECTRIC POWER,2,CT,DFO,PET,199982,0,2229,2229,0,379,Barrels,180,163,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56259,Empire Generating Co LLC,NY,ELECTRIC POWER,3,CA,NG,GAS,876405000,0,788369,788369,0,765407,Mcf,46119,41839,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+56259,Empire Generating Co LLC,NY,ELECTRIC POWER,3,CT,NG,GAS,1490039000,0,16898815,16898815,0,16406617,Mcf,988574,896828,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+57600,Fishers Island 1,NY,ELECTRIC POWER,1,IC,DFO,PET,192000,0,1971,1971,0,339,Barrels,159,144,NPCC,ISNE,New England ISO,New England ISO
+57664,Astoria Energy II,NY,ELECTRIC POWER,2,CA,NG,GAS,945871849,0,760110,760110,0,737959,Mcf,44466,40339,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+57664,Astoria Energy II,NY,ELECTRIC POWER,2,CA,DFO,PET,8795151,0,0,0,0,0,Barrels,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+57664,Astoria Energy II,NY,ELECTRIC POWER,2,CT,NG,GAS,1610710497,0,18361955,18361955,0,17819399,Mcf,1074167,974478,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+57664,Astoria Energy II,NY,ELECTRIC POWER,2,CT,DFO,PET,16586503,0,198867,198867,0,34311,Barrels,16038,14549,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+57798,OBP Cogen,NY,COMMERCIAL,5,GT,NG,GAS,31491000,117244,352634,177642,174992,342362,Mcf,20629,18714,RFC,NYIS,New York Independent System Operator,New York Independent System Operator
+58156,SUNY Old Westbury College,NY,COMMERCIAL,4,IC,NG,GAS,175000,0,3988,3988,0,3988,Mcf,233,212,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58157,University of Rochester,NY,COMMERCIAL,5,ST,NG,GAS,62186794,1241142,2306865,336797,1970068,2239675,Mcf,134951,122426,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58157,University of Rochester,NY,COMMERCIAL,5,ST,DFO,PET,18206,314,598,99,499,103,Barrels,48,44,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58163,Mercy Medical Center,NY,COMMERCIAL,4,IC,DFO,PET,8000,0,230,230,0,41,Barrels,19,17,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58167,William Floyd School District,NY,COMMERCIAL,5,IC,NG,GAS,2389532,114171,160956,10729,150227,156267,Mcf,9416,8542,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58167,William Floyd School District,NY,COMMERCIAL,5,IC,DFO,PET,2468,119,166,10,156,33,Barrels,13,12,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58186,HVCC Cogen Plant,NY,COMMERCIAL,5,IC,NG,GAS,13137377,9169,189507,158950,30557,183988,Mcf,11086,10057,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58186,HVCC Cogen Plant,NY,COMMERCIAL,5,IC,DFO,PET,120623,85,1740,1458,282,300,Barrels,140,127,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58201,Monroe Community College Plant,NY,COMMERCIAL,5,IC,NG,GAS,12291160,56408,157461,67926,89535,152284,Mcf,9211,8357,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58507,Montefieor Medical Center Moses Division,NY,COMMERCIAL,5,GT,NG,GAS,27378944,18228,401942,339088,62854,390235,Mcf,23513,21331,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58507,Montefieor Medical Center Moses Division,NY,COMMERCIAL,5,GT,DFO,PET,333056,224,4894,4125,769,889,Barrels,395,358,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58507,Montefieor Medical Center Moses Division,NY,COMMERCIAL,5,IC,NG,GAS,713049,2582,17733,8831,8902,17216,Mcf,1037,941,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58507,Montefieor Medical Center Moses Division,NY,COMMERCIAL,5,IC,DFO,PET,427951,1551,10645,5301,5344,1935,Barrels,858,779,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+58815,Hilton NY Co Gen Plant,NY,ELECTRIC POWER,3,IC,NG,GAS,10377000,22255,129396,81020,48376,125384,Mcf,7570,6867,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+59453,Albany Medical Ctr Cogen Plant,NY,COMMERCIAL,5,GT,NG,GAS,31435000,190271,500412,188492,311920,485837,Mcf,29274,26557,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61026,New York Presbyterian Hospital-168th St,NY,COMMERCIAL,4,IC,DFO,PET,223000,0,2056,2056,0,373,Barrels,166,150,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61238,NY - Presbyt. Hospital - 525 E 68TH St,NY,COMMERCIAL,5,GT,NG,GAS,45248000,0,529789,529789,0,514359,Mcf,30992,28116,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61238,NY - Presbyt. Hospital - 525 E 68TH St,NY,COMMERCIAL,5,IC,DFO,PET,1525000,0,942,942,0,162,Barrels,76,69,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61378,Northern Westchester Hospital,NY,COMMERCIAL,4,IC,NG,GAS,0,0,1,1,0,1,Mcf,0,0,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61378,Northern Westchester Hospital,NY,COMMERCIAL,4,IC,DFO,PET,0,0,725,725,0,119,Barrels,58,53,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61414,NY Times Daily Production Facility,NY,INDUSTRIAL,6,IC,DFO,PET,79000,0,987,987,0,179,Barrels,80,72,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61488,NYU LANGONE HEALTH,NY,COMMERCIAL,4,GT,NG,GAS,57972000,0,859116,859116,0,834092,Mcf,50258,45594,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61551,Good Samaritan Hospital,NY,COMMERCIAL,4,IC,NG,GAS,1137,0,32,32,0,32,Mcf,2,2,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61551,Good Samaritan Hospital,NY,COMMERCIAL,4,IC,DFO,PET,9863,0,291,291,0,52,Barrels,23,21,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+61567,Woodhull Hospital,NY,COMMERCIAL,4,IC,DFO,PET,84000,0,6289,6289,0,1143,Barrels,507,460,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
+99999,Partially Reporting Facilities,NY,INDUSTRIAL,7,GT,NG,GAS,6536963,51287,108891,33469,75422,105699,Mcf,6370,5779,NPCC,NYIS,New York Independent System Operator,New York Independent System Operator
